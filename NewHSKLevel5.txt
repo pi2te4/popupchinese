@@ -1,0 +1,1298 @@
+PopupChinese.com – New HSK Level 5					
+序号	词汇	繁体	拼音	英文翻译	词性
+1	爱护	愛護	ai4hu4	to care	verb
+2	爱惜	愛惜	ai4xi1	to value	verb
+3	爱心	愛心	ai4xin1	loving heart	noun
+4	唉	唉	ai5	alas	interjection
+5	安慰	安慰	an1wei4	to comfort	verb
+6	安装	安裝	an1zhuang1	to install	verb
+7	岸	岸	an4	bank	noun
+8	把握	把握	ba3wo4	to grasp	verb
+9	摆	擺	bai3	to put	verb
+10	班主任	班主任	ban1zhu3ren4	a teacher in charge of a class	noun
+11	办理	辦理	ban4li3	to transact	verb
+12	棒	棒	bang4	stick	noun
+13	傍晚	傍晚	bang4wan3	evening	noun
+14	包裹	包裹	bao1guo3	pack	noun
+15	包含	包含	bao1han2	to include	verb
+16	包子	包子	bao1zi5	steamed stuffed bun	noun
+17	薄	薄	bao2	thin	adjective
+18	宝贝	寶貝	bao3bei4	treasure	noun
+19	保持	保持	bao3chi2	to keep	verb
+20	保存	保存	bao3cun2	to save	verb
+21	宝贵	寶貴	bao3gui4	valuable	adjective
+22	保留	保留	bao3liu2	to retain	verb
+23	保险	保險	bao3xian3	to insure	verb
+24	报告	報告	bao4gao4	report	noun
+25	悲观	悲觀	bei1guan1	pessimistic	adjective
+26	背	背	bei4	back	noun
+27	背景	背景	bei4jing3	background	noun
+28	被子	被子	bei4zi5	blanket	noun
+29	本科	本科	ben3ke1	undergraduate course	noun
+30	本领	本領	ben3ling3	ability	noun
+31	本质	本質	ben3zhi4	nature	noun
+32	彼此	彼此	bi3ci3	each other	pronoun
+33	比例	比例	bi3li4	scale	noun
+34	比如	比如	bi3ru2	such as	preposition
+35	毕竟	畢竟	bi4jing4	after all	preposition
+36	避免	避免	bi4mian3	to avoid	verb
+37	必然	必然	bi4ran2	certain	adjective
+38	必须	必須	bi4xu1	must	auxiliary
+39	必要	必要	bi4yao4	necessary	adjective
+40	编辑	編輯	bian1ji2	to edit	verb
+41	鞭炮	鞭炮	bian1pao4	cracker	noun
+42	便	便	bian4	thus	conjunction
+43	辩论	辯論	bian4lun4	to argue	verb
+44	标点	標點	biao1dian3	punctuation	noun
+45	标志	標誌	biao1zhi4	sign	noun
+46	表格	表格	biao3ge2	form	noun
+47	表面	表面	biao3mian4	surface	noun
+48	表明	表明	biao3ming2	to indicate	verb
+49	表情	表情	biao3qing2	expression	noun
+50	表示	表示	biao3shi4	to show	verb
+51	表现	表現	biao3xian4	performance	noun
+52	表扬	表揚	biao3yang2	to praise	verb
+53	表演	表演	biao3yan3	to perform	verb
+54	别	別	bie2	other	adjective
+55	别人	別人	bie2ren2	others	pronoun
+56	冰箱	冰箱	bing1xiang1	refrigerator	noun
+57	丙	丙	bing3	third	numeral
+58	饼干	餅乾	bing3gan1	biscuit	noun
+59	并且	並且	bing4qie3	moreover	conjunction
+60	玻璃	玻璃	bo1li5	glass	noun
+61	博士	博士	bo2shi4	PHD	noun
+62	博物馆	博物館	bo2wu4guan3	museum	noun
+63	脖子	脖子	bo2zi5	neck	noun
+64	补充	補充	bu3chong1	to replenish	verb
+65	布	布	bu4	cloth	noun
+66	不安	不安	bu4an1	uneasy	adjective
+67	不必	不必	bu4bi4	to need not	verb
+68	不得了	不得了	bu4de2liao3	extremely	adverb
+69	不断	不斷	bu4duan4	ceaselessly	adverb
+70	不好意思	不好意思	bu4hao3yi4si5	embarrassed 	adjective
+71	不见得	不見得	bu4jian4de5	not likely	adverb
+72	部门	部門	bu4men2	department	noun
+73	不免	不免	bu4mian3	unavoidable	adjective
+74	不耐烦	不耐煩	bu4nai4fan2	impatient 	adjective
+75	不然	不然	bu4ran2	not so	conjunction
+76	不如	不如	bu4ru2	not equal to	verb
+77	不要紧	不要緊	bu4yao4jin3	unimportant	adjective
+78	步骤	步驟	bu4zhou4	step	noun
+79	不足	不足	bu4zu2	not enough	verb
+80	拆	拆	chai1	to excrete	verb
+81	财产	財產	cai2chan3	property	noun
+82	踩	踩	cai3	to step on	verb
+83	采访	採訪	cai3fang3	to interview	verb
+84	彩虹	彩虹	cai3hong2	rainbow	noun
+85	采取	採取	cai3qu3	to take	verb
+86	参考	參考	can1kao3	to consult	noun
+87	餐厅	餐廳	can1ting1	restaurant	noun
+88	参与	參與	can1yu3	to participate	verb
+89	残疾	殘疾	can2ji2	physical disability	adjective
+90	惭愧	慚愧	can2kui4	ashamed	adjective
+91	操场	操場	cao1chang3	playground	noun
+92	操心	操心	cao1xin1	worried	adjective
+93	册	冊	ce4	booklet	noun
+94	厕所	廁所	ce4suo3	toilet	noun
+95	测验	測驗	ce4yan4	test	noun
+96	曾经	曾經	ceng2jing1	once	adverb
+97	插	插	cha1	to stick 	verb
+98	差别	差別	cha1bei2	difference	noun
+99	叉子	叉子	cha1zi5	fork	noun
+100	产品	產品	chan3pin3	product	noun
+101	产生	產生	chan3sheng1	to produce	verb
+102	常识	常識	chang2shi2	common sense	noun
+103	长途	長途	chang2tu2	long-distance	adjective
+104	抄	抄	chao1	to copy	verb
+105	朝	朝	chao2	to face	verb
+106	朝代	朝代	chao2dai4	dynasty	noun
+107	炒	炒	chao3	to stir-fry	verb
+108	吵架	吵架	chao3jia4	to quarrel	verb
+109	车库	車庫	che1ku4	garage	noun
+110	车厢	車廂	che1xiang1	carriage	noun
+111	彻底	徹底	che4di3	thorough	adverb
+112	沉默	沉默	chen2mo4	reticent	adjective
+113	趁	趁	chen4	to take advantage of	verb
+114	称	稱	cheng1	to claim	verb
+115	称呼	稱呼	cheng1hu1	call	noun
+116	称赞	稱讚	cheng1zan4	to praise	verb
+117	乘	乘	cheng2	to ride	verb
+118	承担	承擔	cheng2dan1	to undertake	verb
+119	程度	程度	cheng2du4	level	noun
+120	成分	成分	cheng2fen4	composition	noun
+121	成果	成果	cheng2guo3	achievement	noun
+123	成就	成就	cheng2jiu4	achievement	noun
+124	诚恳	誠懇	cheng2ken3	pure-hearted	adjective
+125	成立	成立	cheng2li4	to establish	verb
+126	承认	承認	cheng2ren4	to admit	verb
+127	承受	承受	cheng2shou4	to bear	verb
+128	程序	程序	cheng2xu4	procedure	noun
+129	成语	成語	cheng2yu3	idiom	noun
+130	成长	成長	cheng2zhang3	to grow up	verb
+131	吃亏	吃虧	chi1kui1	to suffer losses	verb
+132	持续	持續	chi2xu4	to last	verb
+133	池子	池子	chi2zi5	pool	noun
+134	尺子	尺子	chi3zi5	rule	noun
+135	翅膀	翅膀	chi4bang3	wing	noun
+136	冲	沖	chong1	to rush	verb
+137	充电器	充電器	chong1dian4qi4	charger	noun
+138	充分	充分	chong1fen4	sufficient	adjective
+139	充满	充滿	chong1man3	to be filled	verb
+140	重复	重複	chong2fu4	to repeat	verb
+141	宠物	寵物	chong3wu4	pet	noun
+142	抽屉	抽屜	chou1ti4	drawer	noun
+143	抽象	抽象	chou1xiang4	abstract	adjective
+144	丑	醜	chou3	ugly	adjective
+145	臭	臭	chou4	stink	adjective
+146	出版	出版	chu1ban3	to publish	verb
+147	初级	初級	chu1ji2	primary	adjective
+148	出口	出口	chu1kou3	to export	verb
+149	出色	出色	chu1se4	outstanding	adjective
+150	出席	出席	chu1xi2	to attend	verb
+151	除	除	chu2	to divide	verb
+152	除非	除非	chu2fei1	only if	conjunction
+153	处理	處理	chu3li3	to dispose	verb
+154	除夕	除夕	chu2xi1	New Year's Eve	noun
+155	传播	傳播	chuan2bo1	to spread	verb
+156	传递	傳遞	chuan2di4	to deliver	verb
+157	传染	傳染	chuan2ran3	to infect	verb
+158	传说	傳說	chuan2shuo1	legend	noun
+159	传统	傳統	chuan2tong3	tradition	noun
+160	窗户	窗戶	chuang1hu5	window	noun
+161	闯	闖	chuang3	to rush	verb
+162	创造	創造	chuang4zao4	to create	verb
+163	吹	吹	chui1	to puff	verb
+164	辞职	辭職	ci2zhi2	to resign	verb
+165	此外	此外	ci3wai4	besides	conjunction
+166	磁带	磁帶	ci2dai4	magnetic tape	noun
+167	刺激	刺激	ci4ji5	to stimulate	verb
+168	次要	次要	ci4yao4	secondary	adjective
+169	匆忙	匆忙	cong1mang2	hastily	adverb
+170	从此	從此	cong2ci3	thence	conjunction
+171	从前	從前	cong2qian2	formerly	adverb
+172	从事	從事	cong2shi4	to be engaged in	verb
+173	从而	從而	cong2er2	thereby	conjunction
+174	醋	醋	cu4	vinegar	noun
+175	促进	促進	cu4jin4	to promote	verb
+176	促使	促使	cu4shi3	to precipitate	verb
+177	催	催	cui4	to urge	verb
+178	存	存	cun2	to deposit	verb
+179	存在	存在	cun2zai4	to exist	verb
+180	错误	錯誤	cuo2wu4	mistake	noun
+181	措施	措施	cuo4shi1	measure	noun
+182	答应	答應	da1ying4	to answer	verb
+183	达到	達到	da2dao4	to achieve	verb
+184	打工	打工	da3gong1	to work	verb
+185	打交道	打交道	da3jiao1dao4	to come into contact with	verb
+186	打喷嚏	打噴嚏	da3pen1ti4	to sneeze	verb
+187	打听	打聽	da3ting5	to ask about	verb
+188	大方	大方	da4fang5	generous	adjective
+189	大象	大象	da4xiang4	elephant	noun
+190	大型	大型	da4xing2	large-scale	adjective
+191	呆	呆	dai1	stupid	adjective
+192	贷款	貸款	dai4kuan3	to grant	verb
+193	待遇	待遇	dai4yu4	treatment	noun
+194	单纯	單純	dan1chun2	pure	adjective
+195	单调	單調	dan1diao4	monotonous	adjective
+196	单独	單獨	dan1du2	alone	adjective
+197	担任	擔任	dan1ren4	to fill an office	verb
+198	单位	單位	dan1wei4	unit	noun
+199	耽误	耽誤	dan1wu4	to delay	verb
+200	胆小鬼	膽小鬼	dan3xiao3gui3	coward	noun
+201	淡	淡	dan4	tasteless	adjective
+202	单元	單元	dan1yuan2	unit	noun
+203	当代	當代	dang1dai4	the present age	noun
+204	挡	擋	dang3	to keep off	verb
+205	道理	道理	dao4li3	principle	noun
+206	岛	島	dao3	island	noun
+207	倒霉	倒楣	dao3mei2	to fall on evil days	verb
+208	导演	導演	dao3yan3	director	noun
+209	导致	導致	dao3zhi4	to result in	verb
+210	倒	倒	dao4	to fall	verb
+211	到达	到達	dao4da2	to arrive	verb
+212	道德	道德	dao4de2	virtue	noun
+213	登机牌	登機牌	deng1ji1pai2	boarding check	noun
+214	登记	登記	deng1ji4	to register	verb
+215	等待	等待	deng3dai4	to wait	verb
+216	等候	等候	deng3hou4	to wait	verb
+217	等于	等於	deng3yu2	to equal to	verb
+218	滴	滴	di1	to drip	verb
+219	的确	的確	di2que4	really	adverb
+220	敌人	敵人	di2ren2	enemy	noun
+221	递	遞	di4	to hand over	verb
+222	地道	地道	di4dao4	local	adjective
+223	地理	地理	di4li3	geography	noun
+224	地区	地區	di4qu1	district	noun
+225	地毯	地毯	di4tan3	carpet	noun
+226	地位	地位	di4wei5	position	noun
+227	地震	地震	di4zhen4	earthquake	noun
+228	点头	點頭	dian3tou2	to nod	verb
+229	点心	點心	dian3xin5	light refreshments	noun
+230	电池	電池	dian4chi2	battery	noun
+231	电台	電臺	dian4tai2	transmitter-receiver	noun
+232	钓	釣	diao4	to fish	verb
+233	丁	丁	ding1	fourth	numeral
+234	顶	頂	ding3	top	noun
+235	冻	凍	dong4	freeze	adjective
+236	洞	洞	dong4	hole	noun
+237	动画片	動畫片	dong4hua4pian4	animation	noun
+238	逗	逗	dou4	to amuse	verb
+239	豆腐	豆腐	dou4fu3	bean curd	noun
+240	独立	獨立	du2li4	to stand alone	verb
+241	毒素	毒素	du2su4	poison	noun
+242	独特	獨特	du2te4	unique	adjective
+243	度过	度過	du4guo4	to spend	verb
+244	短信	短信	duan2xin4	message	noun
+245	堆	堆	dui1	to pile up	verb
+246	对比	對比	dui4bi2	to contrast	verb
+247	对待	對待	dui4dai4	to treat	verb
+248	对方	對方	dui4fang1	opposite side	noun
+249	对手	對手	dui4shou3	opponent	noun
+250	对象	對象	dui4xiang4	object	noun
+251	对于	對於	dui4yu2	to	preposition
+252	吨	噸	dun1	ton	noun
+253	蹲	蹲	dun1	to squat	verb
+254	多亏	多虧	duo1kui1	to thanks to	verb
+255	多余	多餘	duo1yu2	unnecessary	adjective
+256	躲藏	躲藏	duo3cang2	to hide	verb
+257	恶劣	惡劣	e4lie3	vile	adjective
+258	发表	發表	fa1biao3	to publish	verb
+259	发愁	發愁	fa1chou2	to be anxious	verb
+260	发达	發達	fa1da2	developed	adjective
+261	发抖	發抖	fa1dou3	to shiver	verb
+262	发挥	發揮	fa1hui1	to express	verb
+263	发明	發明	fa1ming2	to invent	verb
+264	发票	發票	fa1piao4	invoice	noun
+265	发言	發言	fa1yan2	to speak	verb
+266	法院	法院	fa3yuan4	court of justice	noun
+267	翻	翻	fan1	to translate, to turn over	verb
+268	繁荣	繁榮	fan2rong2	flourishing	adjective
+269	凡是	凡是	fan2shi4	all	adverb
+270	反而	反而	fan3er2	on the contrary	conjunction
+271	反复	反復	fan3fu4	repeatedly	adverb
+272	反映	反映	fan3ying4	to reflect	verb
+273	反正	反正	fan3zheng4	anyway	adverb
+274	方	方	fang1	direction	noun
+275	方案	方案	fang1an4	scheme	noun
+276	方式	方式	fang1shi3	way	noun
+277	妨碍	妨礙	fang2ai4	to obstruct	verb
+278	房东	房東	fang2dong1	landlord	noun
+279	仿佛	仿佛	fang3fu2	as though	verb
+280	放松	放鬆	fang4song1	to relax	verb
+281	非	非	fei1	must	verb
+282	肥皂	肥皂	fei2zao4	soap	noun
+283	肺	肺	fei4	lungs	noun
+284	废话	廢話	fei4hua4	superfluous words	noun
+285	费用	費用	fei4yong4	cost	noun
+286	分别	分別	fen1bie2	separately	adverb
+287	分布	分佈	fen1bu4	to allot	verb
+288	纷纷	紛紛	fen1fen1	one after another	adverb
+289	分配	分配	fen1pei4	to distribute	verb
+290	分析	分析	fen1xi1	to analyze	verb
+291	奋斗	奮鬥	fen4dou4	to struggle	verb
+292	愤怒	憤怒	fen4nu4	indignation	noun
+293	风格	風格	feng1ge2	style	noun
+294	疯狂	瘋狂	feng1kuang2	insane	adjective
+295	风俗	風俗	feng1su2	custom	noun
+296	风险	風險	feng1xian3	risk	noun
+297	讽刺	諷刺	feng3ci4	to satire	verb
+298	否定	否定	fou3ding4	to negate	verb
+299	否认	否認	fou3ren4	to deny	verb
+300	幅	幅	fu2	measure word of drawing	measure word
+301	扶	扶	fu2	to support with hand	verb
+302	服从	服從	fu2cong2	to obey	verb
+303	辅导	輔導	fu3dao3	to coach	verb
+304	服装	服裝	fu2zhuang1	dress	noun
+305	付款	付款	fu4kuan3	to pay	verb
+306	妇女	婦女	fu4nv3	woman	noun
+307	复制	複製	fu4zhi4	to copy	verb
+308	改革	改革	gai3ge2	reform	noun
+309	改进	改進	gai3jin4	to improve	verb
+310	改善	改善	gai3shan4	to improve	verb
+311	改正	改正	gai3zheng4	to correct	verb
+312	盖	蓋	gai4	to cover	verb
+313	概括	概括	gai4kuo4	to summarize	verb
+314	概念	概念	gai4nian4	concept	noun
+315	干脆	乾脆	gan1cui4	clear-cut	adjective
+316	感激	感激	gan3ji1	to feel grateful	verb
+317	赶紧	趕緊	gan3jin3	with all hast	adverb
+318	赶快	趕快	gan3kuai4	with all hast	adverb
+319	感受	感受	gan3shou4	feeling	noun
+320	感想	感想	gan3xiang3	thoughts	noun
+321	干活儿	幹活兒	gan4huo2r5	to work	verb
+322	钢铁	鋼鐵	gang1tie3	steel	noun
+323	高档	高檔	gao1dang4	top grade	adjective
+324	高速公路	高速公路	gao1su4gong1lu4	expressway	noun
+325	搞	搞	gao3	to carry on	verb
+326	告别	告別	gao4bie2	to leave	verb
+327	胳膊	胳膊	ge1bo5	arm	noun
+328	鸽子	鴿子	ge1zi5	pigeon	noun
+329	隔壁	隔壁	ge2bi4	next door	noun
+330	革命	革命	ge2ming4	revolution	noun
+331	格外	格外	ge2wai4	especially	adverb
+332	个别	個別	ge4bei2	exceptional	adjective
+333	个人	個人	ge4ren2	individual	noun
+334	个性	個性	ge4xing4	individuality	noun
+335	各自	各自	ge4zi4	each	adverb
+336	根	根	gen1	root	noun
+337	根本	根本	gen1ben3	basic	adjective
+338	更加	更加	geng4jia1	still further	adverb
+339	公布	公佈	gong1bu4	to promulgate	verb
+340	工厂	工廠	gong1chang3	factory	noun
+341	工程师	工程師	gong1cheng2shi1	engineer	noun
+342	功能	功能	gong1neng2	function	noun
+343	功夫	功夫	gong1fu5	kung fu	noun
+344	公开	公開	gong1kai1	to public	verb
+345	公平	公平	gong1ping2	fair	adjective
+346	工人	工人	gong1ren2	worker	noun
+347	工业	工業	gong1ye4	industry	noun
+348	公寓	公寓	gong1yu4	apartment	noun
+349	公元	西元	gong1yuan2	Christian era	noun
+350	公主	公主	gong1zhu3	princess	noun
+351	贡献	貢獻	gong4xian4	to contribute	verb
+352	沟通	溝通	gou1tong1	to communicate	verb
+353	构成	構成	gou2cheng2	to constitute	verb
+354	姑姑	姑姑	gu1gu5	aunt	noun
+355	姑娘	姑娘	gu1niang5	girl	noun
+356	古代	古代	gu3dai4	ancient time	noun
+357	古典	古典	gu3dian3	classical 	adjective
+358	古老	古老	gu3lao3	old	adjective
+359	股票	股票	gu3piao4	stock	noun
+360	骨头	骨頭	gu3tou5	bone	noun
+361	鼓舞	鼓舞	gu3wu3	to encourage	verb
+362	固定	固定	gu4ding4	fixed	adjective
+363	固体	固體	gu4ti3	solid	noun
+364	雇佣	雇傭	gu4yong1	to hire	verb
+365	挂号	掛號	gua4hao4	to register	verb
+366	乖	乖	guai1	clever	adjective
+367	拐弯	拐彎	guai3wan1	to turn off	verb
+368	怪不得	怪不得	guai4bu4de2	no wonder	conjunction
+369	关	關	guan1	to close	verb
+370	关闭	關閉	guan1bi4	to shut	verb
+371	观察	觀察	guan1cha2	to watch	verb
+372	观点	觀點	guan1dian3	point of view	noun
+373	关怀	關懷	guan1huai2	to show loving care for	verb
+374	观念	觀念	guan1nian4	sense	noun
+375	冠军	冠軍	guan4jun1	champion	noun
+376	罐头	罐頭	guan4tou5	tin	noun
+377	管子	管子	guan3zi5	tube	noun
+378	光盘	光盤	guang1pan2	DVD disk	noun
+379	光滑	光滑	guang1hua2	smooth	adjective
+380	光临	光臨	guang1lin2	presence	noun
+381	光明	光明	guang1ming2	luminosity	noun
+382	光荣	光榮	guang1rong2	honor	noun
+383	广场	廣場	guang3chang3	plaza	noun
+384	广大	廣大	guang3da4	vast	adjective
+385	广泛	廣泛	guang3fan4	abroad	adverb
+386	规矩	規矩	gui1ju5	rule	noun
+387	规律	規律	gui1lv4	regular	noun
+388	规模	規模	gui1mo2	scale	noun
+389	规则	規則	gui1ze2	rule	noun
+390	柜台	櫃檯	gui4tai2	counter	noun
+391	滚	滾	gun3	to roll	verb
+392	锅	鍋	guo1	pan	noun
+393	国籍	國籍	guo2ji2	nationality	noun
+394	国庆节	國慶日	guo2qing4jie2	National Day	noun
+395	果实	果實	guo3shi2	fruit	noun
+396	过分	過分	guo4fen4	excessive	adjective
+397	过敏	過敏	guo4min3	to be allergic	verb
+398	过期	過期	guo4qi1	to past due	verb
+399	哈	哈	ha1	ah	interjection
+400	海关	海關	hai3guan1	customs	noun
+401	海鲜	海鮮	hai3xian1	seafood	noun
+402	喊	喊	han3	to shout	verb
+403	航行	航行	hang2xing2	sailing	noun
+404	豪华	豪華	hao2hua2	luxury	adjective
+405	好奇	好奇	hao4qi2	curious	adjective
+406	何必	何必	he2bi4	there is no need	conjunction
+407	合法	合法	he2fa3	legal	adjective
+408	何况	何況	he2kuang4	much less	conjunction
+409	合理	合理	he2li3	reasonable	adjective
+410	和平	和平	he2ping2	peace	noun
+411	合同	合同	he2tong5	contract	noun
+412	核心	核心	he2xin1	core	noun
+413	合影	合影	he2ying3	to take a photo together	verb
+414	合作	合作	he2zuo4	to collaborate	verb
+415	恨	恨	hen4	to hate	verb
+416	横	橫	heng2	horizontal	adjective
+417	后果	後果	hou4guo3	consequence	noun
+418	忽视	忽視	hu1shi4	to ignore	verb
+419	呼吸	呼吸	hu1xi1	to breathe	verb
+420	壶	壺	hu2	pot	noun
+421	蝴蝶	蝴蝶	hu2die2	butterfly	noun
+422	胡说	胡說	hu2shuo1	to talk nonsense	verb
+423	胡同	胡同	hu2tong4	alleyway	noun
+424	胡涂	糊塗	hu2tu5	muddled	adjective
+425	胡须	鬍鬚	hu2xu1	beard	noun
+426	花生	花生	hua1sheng1	peanut	noun
+427	滑冰	滑冰	hua2bing1	ice-skating	noun
+428	划船	划船	hua2chuan2	to row	verb
+429	华裔	華裔	hua2yi4	foreign citizen of Chinese origin	adjective
+430	话题	話題	hua4ti2	topic	noun
+431	化学	化學	hua4xue2	chemistry	noun
+432	怀念	懷念	huai2nian4	to cherish the memory of	verb
+433	缓解	緩解	huan3jie3	to ease	verb
+434	幻想	幻想	huan4xiang3	delusion	noun
+435	慌张	慌張	huang1zhang1	flurried	adjective
+436	皇帝	皇帝	huang2di4	emperor	noun
+437	黄瓜	黃瓜	huang2gua1	cucumber	noun
+438	皇后	皇后	huang2hou4	queen	noun
+439	黄金	黃金	huang2jin1	gold	noun
+440	灰	灰	hui1	dust	noun
+441	挥	揮	hui1	to wave	verb
+442	灰尘	灰塵	hui1chen2	dust	noun
+443	恢复	恢復	hui1fu4	to recover	verb
+444	灰心	灰心	hui1xin1	to be discouraged	verb
+445	汇率	匯率	hui4lv4	exchange rate	noun
+446	婚礼	婚禮	hun1li3	wedding	noun
+447	婚姻	婚姻	hun1yin1	marriage	noun
+448	活泼	活潑	huo2po1	active	adjective
+449	伙伴	夥伴	huo3ban4	partner	noun
+450	火柴	火柴	huo3chai2	match	noun
+451	基本	基本	ji1ben3	basic	adjective
+452	激烈	激烈	ji1lie4	intense	adjective
+453	机器	機器	ji1qi4	machine	noun
+454	肌肉	肌肉	ji1rou4	muscle	noun
+455	及格	及格	ji2ge2	to pass a test	verb
+456	急忙	急忙	ji2mang2	in a hurry	adverb
+457	集体	集體	ji2ti3	collectivity	noun
+458	集中	集中	ji2zhong1	to concentrate	verb
+459	系领带	系領帶	ji4ling3dai4	to tie	verb
+460	记录	記錄	ji4lu4	to take notes	verb
+461	纪律	紀律	ji4lv4	discipline	noun
+462	寂寞	寂寞	ji4mo4	loneliness	noun
+463	纪念	紀念	ji4nian4	to commemorate	verb
+464	既然	既然	ji4ran2	since	conjunction
+465	计算	計算	ji4suan4	to calculate	verb
+466	继续	繼續	ji4xu4	to continue	verb
+467	记忆	記憶	ji4yi4	memory	noun
+468	嘉宾	嘉賓	jia1bin1	honored guest	noun
+469	家庭	家庭	jia1ting2	family	noun
+470	家务	家務	jia1wu4	housework	noun
+471	家乡	家鄉	jia1xiang1	hometown	noun
+472	驾驶	駕駛	jia4shi3	to drive	verb
+473	夹子	夾子	jia2zi5	clamp	noun
+474	甲	甲	jia3	first	numeral
+475	假如	假如	jia3ru2	if	conjunction
+476	假装	假裝	jia3zhuang1	to pretend	verb
+477	嫁	嫁	jia4	to marry (a husband)	verb
+478	价值	價值	jia4zhi2	value	noun
+479	煎	煎	jian1	to fry in shallow oil	verb
+480	肩膀	肩膀	jian1bang3	shoulder	noun
+481	艰巨	艱巨	jian1ju4	arduous	adjective
+482	坚决	堅決	jian1jue2	firm	adjective
+483	艰苦	艱苦	jian1ku3	difficult	adjective
+484	坚强	堅強	jian1qiang2	strong	adjective
+485	尖锐	尖銳	jian1rui4	sharp	adjective
+486	捡	撿	jian3	to pick up	verb
+487	剪刀	剪刀	jian3dao1	scissors	noun
+488	简历	簡歷	jian3li4	resume	noun
+489	简直	簡直	jian3zhi2	simply	adverb
+490	建立	建立	jian4li4	to set up	verb
+491	键盘	鍵盤	jian4pan2	keyboard	noun
+492	建设	建設	jian4she4	to build	verb
+493	健身房	健身房	jian4shen1fang2	gymnasium	noun
+494	建议	建議	jian4yi4	to advise	verb
+495	建筑	建築	jian4zhu4	building	noun
+496	经典	經典	jing1dian3	classic	adjective
+497	讲究	講究	jiang3jiu1	to be particular about	verb
+498	降落	降落	jiang4luo4	to land	verb
+499	酱油	醬油	jiang4you2	soy sauce	noun
+500	讲座	講座	jiang3zuo4	lecture	noun
+501	浇	澆	jiao1	to irrigate	verb
+502	交换	交换	jiao1huan2	to exchange	verb
+503	交际	交際	jiao1ji4	communication	noun
+504	郊区	郊區	jiao1qu1	suburbs	noun
+505	胶水	膠水	jiao1shui3	glue	noun
+506	角度	角度	jiao3du4	angle	noun
+507	狡猾	狡猾	jiao3hua2	cunning	adjective
+508	教材	教材	jiao4cai2	teaching material	noun
+509	教练	教練	jiao4lian4	coach	noun
+510	教训	教訓	jiao4xun5	to teach somebody a lesson	verb
+511	接触	接觸	jie1chu4	to contact	verb
+512	接待	接待	jie1dai4	to receive	verb
+513	阶段	階段	jie1duan4	phase	noun
+514	接近	接近	jie1jin4	to approach	verb
+515	结实	結實	jie1shi5	strong	adjective
+516	接着	接著	jie1zhe5	follow	conjunction
+517	结构	結構	jie2gou4	structure	noun
+518	结合	結合	jie2he2	to combine	verb
+519	结论	結論	jie2lun4	conclusion	noun
+520	节省	節省	jie2sheng3	to save	verb
+521	结账	結帳	jie2zhang4	to settle accounts	verb
+522	解放	解放	jie3fang4	to liberate	verb
+523	解说员	解說員	jie3shuo1yuan2	announcer	noun
+524	届	屆	jie4	measure word of conferences	measure word
+525	节	節	jie2	measure word of classes	measure word
+526	借口	藉口	jie4kou3	excuse	noun
+527	戒烟	戒煙	jie4yan1	to quit smoking	verb
+528	戒指	戒指	jie4zhi5	ring	noun
+529	金属	金屬	jin1shu3	metal	noun
+530	紧	緊	jin3	strict	adjective
+531	尽管	儘管	jin4guan3	feel free to	adverb
+532	紧急	緊急	jin3ji2	urgent	adjective
+533	谨慎	謹慎	jin3shen4	prudent	adjective
+534	进步	進步	jin4bu4	to advance	verb
+535	近代	近代	jin4dai4	modern times	noun
+536	进口	進口	jin4kou3	to import	verb
+537	尽力	盡力	jin4li4	to try one's best	verb
+538	尽量	儘量	jin4liang4	as much as possible	adverb
+539	进行	進行	jin4xing2	to proceed	verb
+540	精彩	精彩	jing1cai3	splendid	adjective
+541	经常	經常	jing1chang2	often	adverb
+542	经典	經典	jing1dian3	classics	noun
+543	经过	經過	jing1guo4	to pass	verb
+544	经历	經歷	jing1li4	to go through	verb
+545	精神	精神	jing1shen5	spirit	noun
+546	经营	經營	jing1ying2	to manage	verb
+547	景色	景色	jing3se2	scenery	noun
+548	敬爱	敬愛	jing4ai4	to respect and love	verb
+549	酒吧	酒吧	jiu3ba1	bar	noun
+550	救	救	jiu4	to rescue	verb
+551	救护车	救護車	jiu4hu4che1	ambulance	noun
+552	舅舅	舅舅	jiu4jiu5	uncle	noun
+553	居然	居然	ju1ran2	unexpectedly	adverb
+554	桔子	桔子	ju2zi5	orange	noun
+555	举	舉	ju3	to lift	verb
+556	具备	具備	ju4bei4	to possess	verb
+557	巨大	巨大	ju4da4	huge	adjective
+558	聚会	聚會	ju4hui4	party	noun
+559	俱乐部	俱樂部	ju4le4bu4	club	noun
+560	据说	據說	ju4shuo1	it is said	conjunction
+561	具体	具體	ju4ti3	specific	adjective
+562	捐	捐	juan1	to donate	verb
+563	卷	卷	juan3	measure word	measure word
+564	决定	決定	jue2ding4	to decide	verb
+565	绝对	絕對	jue2dui4	 	noun
+566	决赛	決賽	jue2sai4	finals（of a competition)	noun
+567	角色	角色	jue2se4	role	noun
+568	决心	決心	jue2xin1	determination	noun
+569	军事	軍事	jun1shi4	military affairs	noun
+570	均匀	均勻	jun1yun2	equality	noun
+571	卡车	卡車	ka3che1	lorry	noun
+572	开发	開發	kai1fa1	to develop	verb
+573	开放	開放	kai1fang4	open to public use	verb
+574	开幕式	開幕式	kai1mu4shi4	opening ceremony	noun
+575	开心	開心	kai1xin1	feel happy	verb
+576	砍	砍	kan3	to chop	verb
+577	看不起	看不起	kan4bu5qi3	to look down upon	verb
+578	看来	看來	kan4lai2	it seems	adverb
+579	抗议	抗議	kang4yi4	to protest	verb
+580	烤鸭	烤鴨	kao3ya1	roast duck	noun
+581	颗	顆	ke1	measure word	measure word
+582	可见	可見	ke3jian4	it is thus clear that	verb
+583	可靠	可靠	ke3kao4	reliable	adjective
+584	可怕	可怕	ke3pa4	horrible	adjective
+585	克	克	ke4	gram	noun
+586	课程	課程	ke4cheng2	curriculum	noun
+587	克服	克服	ke4fu2	to overcome	verb
+588	客观	客觀	ke4guan1	impersonality	noun
+589	刻苦	刻苦	ke4ku3	assiduous	adjective
+590	客人	客人	ke4ren2	guest	noun
+591	客厅	客廳	ke4ting1	living room	noun
+592	空间	空間	kong1jian1	space	noun
+593	空闲	空閒	kong4xian2	idle	adjective
+594	控制	控制	kong4zhi4	to control	verb
+595	恐怖	恐怖	kong3bu2	terrifying	adjective
+596	口味	口味	kou3wei4	taste	noun
+597	夸	誇	kua1	to boast	verb
+598	会计	會計	kuai4ji5	accounting	noun
+599	矿泉水	礦泉水	kuang4quan2shui3	mineral water	noun
+600	困难	困難	kun4nan5	difficulty	noun
+601	扩大	擴大	kuo4da4	expansion	noun
+602	垃圾桶	垃圾桶	la1ji1tong3	trash can	noun
+603	辣椒	辣椒	la4jiao1	cayenne pepper	noun
+604	蜡烛	蠟燭	la4zhu2	candle	noun
+605	来自	來自	lai2zi4	to come from	verb
+606	拦	攔	lan2	to block	verb
+607	烂	爛	lan4	to rot	verb
+608	狼	狼	lang2	wolf	noun
+609	浪费	浪費	lang4fei4	to waste	verb
+610	劳动	勞動	lao2dong4	to labour	verb
+611	劳驾	勞駕	lao2jia4	excuse me	verb
+612	老百姓	老百姓	lao3bai3xing4	civilians	noun
+613	老板	老闆	lao3ban3	boss	noun
+614	姥姥	姥姥	lao3lao5	grandmother	noun
+615	老实	老實	lao3shi5	honest	adjective
+616	老鼠	老鼠	lao3shu3	mouse	noun
+617	乐观	樂觀	le4guan1	optimistic	adjective
+619	雷	雷	lei2	thunder	noun
+620	类	類	lei4	class	noun
+621	梨	梨	li2	pear	noun
+622	离婚	離婚	li2hun1	to divorce	verb
+623	厘米	釐米	li2mi3	centimeter	noun
+624	礼拜天	禮拜天	li3bai4tian1	Sunday	noun
+625	理论	理論	li3lun4	theory	noun
+626	理由	理由	li3you2	reason	noun
+627	粒	粒	li4	grain	noun
+628	立方	立方	li4fang1	cube	noun
+629	立即	立即	li4ji2	promptly	adverb
+630	立刻	立刻	li4ke4	immediately	adverb
+631	力量	力量	li4liang5	physical strength	noun
+632	利润	利潤	li4run5	profit	noun
+633	利息	利息	li4xi5	accrual	noun
+634	利用	利用	li4yong4	to use	verb
+635	俩	倆	lia3  	two	noun
+636	连	連	lian2	even	adverb
+637	联合	聯合	lian2he2	to unite	verb
+638	连忙	連忙	lian2mang2	promptly	adverb
+639	连续剧	連續劇	lian2xu4ju4	sitcom	noun
+640	恋爱	戀愛	lian4ai4	love	noun
+641	良好	良好	liang2hao3	favorable	adjective
+642	粮食	糧食	liang2shi5	grain	noun
+643	凉快	涼快	liang3kuai5	nice and cool	adjective
+644	了不起	了不起	liao3bu5qi3	amazing	adjective
+645	聊天	聊天	liao2tian1	chat	noun
+646	临时	臨時	lin2shi2	temporary	adjective
+647	铃	鈴	ling2	bell	noun
+648	领导	領導	ling3dao3	lead	noun
+649	灵活	靈活	ling2huo2	nimble	adjective
+650	零件	零件	ling2jian4	element	noun
+651	零钱	零錢	ling2qian2	small change	noun
+652	零食	零食	ling2shi2	snacks	noun
+653	领域	領域	ling3yu4	territory	noun
+654	流传	流傳	liu2chuan2	to spread	verb
+655	浏览	流覽	liu2lan3	to browse	verb
+657	龙	龍	long2	dragon	noun
+658	漏	漏	lou4	to leak	verb
+659	露	露	lu4	to reveal	verb
+660	陆地	陸地	lu4di4	land	noun
+661	录取	錄取	lu4qu3	to matriculate	verb
+662	陆续	陸續	lu4xu4	in succession	adverb
+663	录音	錄音	lu4yin1	to tape	verb
+664	轮流	輪流	lun2liu2	take turns	adverb
+665	论文	論文	lun4wen2	thesis	noun
+666	逻辑	邏輯	luo2ji4	logic	noun
+667	落后	落後	luo4hou4	to fall behind	verb
+668	骂	罵	ma4	to abuse	verb
+669	麦克风	麥克風	mai4ke5feng1	microphone	noun
+670	馒头	饅頭	man2tou5	steamed bread	noun
+671	满足	滿足	man3zu2	to satisfy	verb
+672	毛	毛	mao2	fur	noun
+673	矛盾	矛盾	mao2dun4	contradiction	noun
+674	冒险	冒險	mao4xian3	adventure	noun
+675	贸易	貿易	mao4yi4	trade	noun
+676	眉毛	眉毛	mei2mao5	eyebrow	noun
+677	煤炭	煤炭	mei2tan4	coal	noun
+678	美术	美術	mei3shu4	the fine arts	noun
+679	魅力	魅力	mei4li4	glamour	noun
+680	迷路	迷路	mi2lu4	to miss one's way	verb
+681	谜语	謎語	mi2yu3	riddle	noun
+682	蜜蜂	蜜蜂	mi4feng1	honeybee	noun
+683	秘密	秘密	mi4mi5	secret	noun
+684	密切	密切	mi4qie4	frequent	adjective
+685	秘书	秘書	mi4shu5	secretary	noun
+686	棉花	棉花	mian2hua1	cotton	noun
+687	面对	面對	mian4dui4	to face	verb
+688	面积	面積	mian4ji5	acreage	noun
+689	面临	面臨	mian4lin2	to face	verb
+690	面条	麵條	mian4tiao2	noodle	noun
+691	描写	描寫	miao2xie3	to describe	verb
+692	秒	秒	miao3	second	noun
+693	民主	民主	min2zhu3	democracy	noun
+694	毛病	毛病	mao2bing5	illness	noun
+695	目录	目錄	mu4lu4	catalogue	noun
+696	目前	目前	mu4qian2	at present	conjunction
+697	木头	木頭	mu4tou5	wood	noun
+698	拿	拿	na2	to fetch	verb
+699	哪怕	哪怕	na3pa4	even	adverb
+700	难看	難看	nan2kan4	ugly	adjective
+701	脑袋	腦袋	nao3dai5	head	noun
+702	内科	內科	nei4ke1	medical department	noun
+703	嫩	嫩	nen4	delicate	adjective
+704	能干	能幹	neng2gan4	capable	adjective
+705	能源	能源	neng2yuan2	energy	noun
+706	年代	年代	nian2dai4	years	noun
+707	年纪	年紀	nian2ji5	age	noun
+708	念	念	nian4	to read aloud	verb
+709	宁可	寧可	ning4ke3	would rather	conjunction
+710	牛仔裤	牛仔褲	niu2zai3ku4	close-fitting pants	noun
+711	浓	濃	nong2	dense	adjective
+712	农民	農民	nong2min2	peasant	noun
+713	农业	農業	nong2ye4	agriculture	noun
+714	女士	女士	nv3shi4	lady	noun
+715	偶然	偶然	ou3ran2	accidental	adjective
+716	拍	拍	pai1	to pat	verb
+717	派	派	pai4	to dispatch	verb
+718	排队	排隊	pai2dui4	to line up	verb
+719	排球	排球	pai2qiu2	volleyball	noun
+720	盼望	盼望	pan4wang4	hope for	verb
+721	赔偿	賠償	pei2chang2	to compensate for	verb
+722	培养	培養	pei2yang3	to foster	verb
+723	佩服	佩服	pei4fu5	to admire	verb
+724	配合	配合	pei4he2	to coordinate	verb
+725	盆	盆	pen2	pot	noun
+726	碰见	碰見	peng4jian4	to come across	verb
+727	披	披	pi1	to wrap around	verb
+728	匹	匹	pi3	measure word	measure word
+729	批	批	pi1	measure word	measure word
+730	批评	批評	pi1ping5	to criticize	verb
+731	批准	批准	pi1zhun3	to ratify	verb
+732	疲劳	疲勞	pi2lao2	tired	adjective
+733	脾气	脾氣	pi2qi5	temper	noun
+734	皮鞋	皮鞋	pi2xie2	leather shoes	noun
+735	片	片	pian4	measure word	measure word
+736	片面	片面	pian4mian4	unilateral	adjective
+737	飘	飄	piao1	to flutter	verb
+738	频道	頻道	pin2dao4	channel	noun
+739	品种	品種	pin3zhong3	variety	noun
+740	平	平	ping2	flat	adjective
+741	凭	憑	ping2	in the name of	preposition
+742	平常	平常	ping2chang2	mediocrity	noun
+743	平等	平等	ping2deng3	equal	adjective
+744	平方	平方	ping2fang1	square	adjective
+745	平衡	平衡	ping2heng2	balance	noun
+746	评价	評價	ping2jia4	to appraise	verb
+747	平静	平靜	ping2jing4	calm	adjective
+748	平均	平均	ping2jun1	average	noun
+749	破产	破產	po4chan3	to go bankrupt	verb
+750	破坏	破壞	po4huai4	to destroy	verb
+751	迫切	迫切	po4qie4	urgent	adjective
+752	朴素	樸素	pu3su4	frugal	adjective
+753	期待	期待	qi1dai4	to anticipate	verb
+754	期间	期間	qi1jian1	time	noun
+755	奇迹	奇跡	qi2ji4	miracle	noun
+756	其余	其餘	qi2yu2	the others	noun
+757	启发	啟發	qi3fa1	to arouse	verb
+758	企图	企圖	qi3tu2	to attempt	verb
+759	企业	企業	qi3ye4	enterprise	noun
+760	气氛	氣氛	qi4fen1	atmosphere	noun
+761	汽油	汽油	qi4you2	gasoline	noun
+762	牵	牽	qian1	to pull	verb
+763	谦虚	謙虛	qian1xu1	modest	adjective
+764	签字	簽字	qian1zi4	to sign	verb
+765	前途	前途	qian2tu2	future	noun
+766	浅	淺	qian3	shallow	adjective
+767	欠	欠	qian4	to owe	verb
+768	强调	強調	qiang2diao4	to emphasize	verb
+769	强烈	強烈	qiang2lie4	intense	adjective
+770	枪	槍	qiang1	gun	noun
+771	抢	搶	qiang3	to rob	verb
+772	悄悄	悄悄	qiao1qiao1	quietly	adverb
+773	瞧	瞧	qiao2	to look	verb
+774	巧妙	巧妙	qiao3miao4	ingenious	adjective
+775	切	切	qie1	to chop	verb
+776	亲爱	親愛	qin1ai4	dear	adjective
+777	侵略	侵略	qin1lve4	to invade	verb
+778	亲切	親切	qin1qie4	cordial	adjective
+779	亲自	親自	qin1zi4	personally	adverb
+780	勤奋	勤奮	qin2fen4	diligent	adjective
+781	勤劳	勤勞	qin2lao2	industrious	adjective
+782	青	青	qing1	blueness	noun
+783	青春	青春	qing1chun1	youth	noun
+784	清淡	清淡	qing1dan4	light	adjective
+785	青少年	青少年	qing1shao4nian2	teen-agers	noun
+786	轻视	輕視	qing1shi4	to despise	verb
+787	情景	情景	qing2jing3	scene	noun
+788	情绪	情緒	qing2xu4	mood	noun
+789	请求	請求	qing3qiu2	request	noun
+790	庆祝	慶祝	qing4zhu4	to celebrate	verb
+791	球迷	球迷	qiu2mi2	fan	noun
+792	趋势	趨勢	qu1shi4	trend	noun
+793	娶	娶	qu3	to marry (a wife)	verb
+794	取消	取消	qu3xiao1	to cancel	verb
+795	去世	去世	qu4shi4	to die	verb
+796	圈	圈	quan1	circle	noun
+797	权利	權利	quan2li4	right	noun
+798	全面	全面	quan2mian4	comprehensive	adjective
+799	劝	勸	quan4	to advise	verb
+800	缺乏	缺乏	que1fa2	to be short of	verb
+801	确定	確定	que4ding4	to confirm	verb
+802	确认	確認	que4ren4	to affirm	verb
+803	燃烧	燃燒	ran2shao1	to burn	verb
+804	嚷	嚷	rang3	to shout	verb
+805	绕	繞	rao4	to reel	verb
+806	热爱	熱愛	re4ai4	to ardently love	verb
+807	热烈	熱烈	re4lie4	warm	adjective
+808	热心	熱心	re4xin1	enthusiastic	adjective
+809	人才	人才	ren2cai2	person with ability	noun
+810	人口	人口	ren2kou3	population	noun
+811	人类	人類	ren2lei4	human	noun
+812	人生	人生	ren2sheng1	life	noun
+813	人事	人事	ren2shi4	personnel	noun
+814	人物	人物	ren2wu4	figure	noun
+815	人员	人員	ren2yuan2	personnel	noun
+816	忍不住	忍不住	ren3bu5zhu4	unable to bear	adverb
+817	日常	日常	ri4chang2	everyday	adjective
+818	日程	日程	ri4cheng2	agenda	noun
+819	日历	日曆	ri4li4	calendar	noun
+820	日期	日期	ri4qi1	date	noun
+821	日用品	日用品	ri4yong4pin3	articles of everyday use	noun
+822	融化	融化	rong2hua4	to melt	verb
+823	荣幸	榮幸	rong2xing4	be honored	adjective
+824	荣誉	榮譽	rong2yu4	honor	noun
+825	如何	如何	ru2he2	how	adverb
+826	如今	如今	ru2jin1	nowadays	adverb
+827	软件	軟體	ruan3jian4	software	noun
+828	弱	弱	ruo4	weak	adjective
+829	洒	灑	sa3	to sprinkle	verb
+830	嗓子	嗓子	sang3zi5	voice, throat	noun
+831	杀	殺	sha1	to kill	verb
+832	沙漠	沙漠	sha1mo4	desert	noun
+833	沙滩	沙灘	sha1tan1	beach	noun
+834	傻	傻	sha3	stupid	adjective
+835	晒	曬	shai4	to sun	verb
+836	删除	刪除	shan1chu2	to delete	verb
+837	闪电	閃電	shan3dian4	lightning	noun
+838	善良	善良	shan4liang2	goodness	noun
+839	善于	善於	shan4yu2	to be good at	verb
+840	扇子	扇子	shan4zi5	fan	noun
+841	商品	商品	shang1pin3	commodity	noun
+842	商业	商業	shang1ye4	commerce	noun
+843	上当	上當	shang4dang4	to be fooled	verb
+844	勺子	勺子	shao2zi5	spoon	noun
+845	蛇	蛇	she2	snake	noun
+846	舌头	舌頭	she2tou5	tongue	noun
+847	舍不得	捨不得	she3bu5de2	to hate to part with or use	verb
+848	设备	設備	she4bei4	equipment	noun
+849	射击	射擊	she4ji1	to shoot	verb
+850	设计	設計	she4ji4	to devise	verb
+851	设施	設施	she4shi1	installation	noun
+852	摄影	攝影	she4ying3	to take a photograph	verb
+853	身材	身材	shen1cai2	stature	noun
+854	身份	身份	shen1fen4	identity	noun
+855	深刻	深刻	shen1ke4	deep	adjective
+856	伸	伸	shen1	to stretch	verb
+857	神话	神話	shen2hua4	mythology	noun
+858	神经	神經	shen2jing1	nerve	noun
+859	神秘	神秘	shen2mi4	mysterious	adjective
+860	升	升	sheng1	to rise	verb
+861	生产	生產	sheng1chan3	to produce	verb
+862	声调	聲調	sheng1diao4	tone	noun
+863	生动	生動	sheng1dong4	lively	adjective
+864	绳子	繩子	sheng2zi5	string	noun
+865	省略	省略	sheng3lve4	to leave out	verb
+866	胜利	勝利	sheng4li4	victory	noun
+867	诗	詩	shi1	poem	noun
+868	失眠	失眠	shi1mian2	insomnia	noun
+869	失去	失去	shi1qu4	to lose	verb
+870	失业	失業	shi1ye4	to lose one's job	verb
+871	时代	時代	shi2dai4	times	noun
+872	实话	實話	shi2hua4	truth	noun
+873	实践	實踐	shi2jian4	practice	noun
+874	时刻	時刻	shi2ke4	moment	noun
+875	时髦	時髦	shi2mao2	fashionable	adjective
+876	时期	時期	shi2qi1	period	noun
+877	时尚	時尚	shi2shang4	fashion	noun
+878	石头	石頭	shi2tou5	stone	noun
+879	食物	食物	shi2wu4	food	noun
+880	实习	實習	shi2xi2	to practice	verb
+881	实现	實現	shi2xian4	to realize	verb
+882	实行	實行	shi2xing2	to put into practice	verb
+883	实验	實驗	shi2yan4	experiment	noun
+884	实用	實用	shi2yong4	practical	adjective
+885	使劲儿	使勁兒	shi3jin4r	to exert all one's strength	verb
+886	始终	始終	shi3zhong1	from beginning to end	conjunction
+887	士兵	士兵	shi4bing1	soldier	noun
+888	似的	似的	shi4de5	seem as if	adjective
+889	是否	是否	shi4fou3	whether	conjunction
+890	试卷	試卷	shi4juan4	examination paper	noun
+891	寿命	壽命	shou4ming4	life span	noun
+892	受伤	受傷	shou4shang1	to suffer injuries 	verb
+893	蔬菜	蔬菜	shu1cai4	vegetables	noun
+894	书架	書架	shu1jia4	bookshelf	noun
+895	输入	輸入	shu1ru4	to input	verb
+896	舒适	舒適	shu1shi4	comfortable	adjective
+897	梳子	梳子	shu1zi5	comb	noun
+898	熟练	熟練	shu2lian4	skilled	adjective
+899	鼠标	滑鼠	shu3biao1	mouse	noun
+900	数据	數據	shu4ju4	data	noun
+901	属于	屬於	shu3yu2	to belong to	verb
+902	数码	數碼	shu4ma3	digital	adjective
+903	摔	摔	shuai1	to fall	verb
+904	甩	甩	shuai3	to swing	verb
+905	双方	雙方	shuang1fang1	both sides	noun
+906	税	稅	shui4	tax	noun
+907	说不定	說不定	shuo1bu5ding4	perhaps	adverb
+908	说服	說服	shui4fu2	to persuade	verb
+909	撕	撕	si1	to tear	verb
+910	丝绸	絲綢	si1chou2	silk	noun
+911	丝毫	絲毫	si1hao2	a bit	adverb
+912	思考	思考	si1kao3	to think deeply	verb
+913	私人	私人	si1ren2	private	adjective
+914	思想	思想	si1xiang3	thought	noun
+915	似乎	似乎	si4hu1	it seems	adverb
+916	寺庙	寺廟	si4miao4	temple	noun
+917	宿舍	宿舍	su4she3	roommate	noun
+918	随时	隨時	sui2shi2	at any time	conjunction
+919	碎	碎	sui4	to break down	verb
+920	损失	損失	sun3shi1	loss	noun
+921	所谓	所謂	suo3wei4	so called	adjective
+922	锁	鎖	suo3	lock	noun
+923	所	所	suo3	place	noun
+924	缩小	縮小	suo1xiao3	to reduce	verb
+925	塔	塔	ta3	tower	noun
+926	台阶	臺階	tai2jie1	stair	noun
+927	太极拳	太極拳	tai4ji2quan2	tai chi	noun
+928	太太	太太	tai4tai5	Mrs.	noun
+929	谈判	談判	tan2pan4	negotiation	noun
+930	坦率	坦率	tan3shuai4	candid	adjective
+931	烫	燙	tang4	to burn	verb
+932	桃	桃	tao2	peach	noun
+933	逃	逃	tao2	to flee	verb
+934	逃避	逃避	tao2bi4	to escape	verb
+935	套	套	tao4	measure word	measure word
+936	特殊	特殊	te4shu1	special	adjective
+937	特意	特意	te4yi4	specially	adverb
+938	特征	特徵	te4zheng1	tincture	noun
+939	疼爱	疼愛	teng2ai4	to be very fond of	verb
+940	题	題	ti2	question	noun
+941	提倡	提倡	ti2chang4	to advocate	verb
+942	提纲	提綱	ti2gang1	outline	noun
+943	题目	題目	ti2mu4	title	noun
+944	提问	提問	ti2wen4	to ask a question	verb
+945	体会	體會	ti3hui4	to know (through learning or by experience)	verb
+946	体积	體積	ti3ji1	volume	noun
+947	体贴	體貼	ti3tie1	to show consideration for	verb
+948	体现	體現	ti3xian4	to embody	verb
+949	体验	體驗	ti3yan4	to experience	verb
+950	天空	天空	tian1kong1	sky	noun
+951	天真	天真	tian1zhen1	naive	adjective
+952	田野	田野	tian2ye3	field	noun
+953	调皮	調皮	tiao2pi2	naughty	adjective
+954	挑战	挑戰	tiao3zhan4	challenge	noun
+955	通常	通常	tong1chang2	generally	adverb
+956	通讯	通訊	tong1xun4	communication 	noun
+957	铜	銅	tong2	copper	noun
+958	同时	同時	tong2shi2	meanwhile	adverb
+959	痛苦	痛苦	tong4ku3	pain	noun
+960	痛快	痛快	tong4kuai5	joyful	adjective
+961	统一	統一	tong3yi1	to unify	verb
+962	统治	統治	tong3zhi4	to control	verb
+963	投资	投資	tou2zi1	to invest	verb
+964	透明	透明	tou4ming2	transparent	adjective
+965	突出	突出	tu1chu1	to extrude	verb
+966	土地	土地	tu3d14	land	noun
+967	土豆	土豆	tu3dou4	potato	noun
+968	吐	吐	tu4	to spit	verb
+969	兔子	兔子	tu4zi5	rabbit	noun
+970	团	團	tuan2	round	noun
+971	推辞	推辭	tui1ci2	to decline	verb
+972	推荐	推薦	tui1jian4	to recommend	verb
+973	退	退	tui4	to recede	verb
+974	退步	退步	tui4bu4	to retrogress	verb
+975	退休	退休	tui4xiu1	to retire	verb
+976	歪	歪	wai1	slanting	adjective
+977	外交	外交	wai4jiao1	diplomacy	noun
+978	弯	彎	wan1	bend	adjective
+979	玩具	玩具	wan2ju4	toy	noun
+980	完美	完美	wan2mei3	perfect	adjective
+981	完善	完善	wan2shan4	consummate	adjective
+982	完整	完整	wan2zheng3	full	noun
+983	万一	萬一	wan4yi1	just in case	conjunction
+984	往返	往返	wang3fan3	to go back and forth	verb
+985	王子	王子	wang2zi3	prince	noun
+986	危害	危害	wei1hai4	harm	noun
+987	微笑	微笑	wei1xiao4	smile	noun
+988	威胁	威脅	wei1xie2	to threaten 	verb
+989	违反	違反	wei2fan3	to violate	verb
+990	维护	維護	wei2hu4	to maintain	verb
+991	围巾	圍巾	wei2jin1	scarf	noun
+992	围绕	圍繞	wei2rao4	to surround	verb
+993	唯一	唯一	wei2yi1	only	adjective
+994	尾巴	尾巴	wei3ba5	tail	noun
+995	伟大	偉大	wei3da4	great	noun
+996	委屈	委屈	wei3qu5	to feel wronged	adjective
+997	委托	委託	wei3tuo1	to entrust 	verb
+998	胃	胃	wei4	stomach	noun
+999	未必	未必	wei4bi4	may not	other
+1000	未来	未來	wei4lai2	future	noun
+1001	卫生间	衛生間	wei4sheng1jian1	washroom	noun
+1002	位置	位置	wei4zhi5	location	noun
+1003	温度	溫度	wen1du4	temperature 	noun
+1004	温柔	溫柔	wen1rou2	gentle	adjective
+1005	闻	聞	wen2	to smell	verb
+1006	文件	文件	wen2jian4	document	noun
+1007	文具	文具	wen2ju4	stationary	noun
+1008	文明	文明	wen2ming2	civilization 	noun
+1009	文学	文學	wen2xue2	literature	noun
+1010	吻	吻	wen3	to kiss	verb
+1011	稳定	穩定	wen3ding4	stable	adjective
+1012	问候	問候	wen4hou4	to extend greetings to	verb
+1013	卧室	臥室	wo4shi4	bedroom	noun
+1014	屋子	屋子	wu1zi5	house	noun
+1015	无奈	無奈	wu2nai4	cannot help but	conjunction
+1016	无数	無數	wu2shu4	innumerable	adjective
+1017	武器	武器	wu3qi4	weapon	noun
+1018	武术	武術	wu3shu4	wushu	noun
+1019	雾	霧	wu4	fog	noun
+1020	物理	物理	wu4li3	physics 	noun
+1021	物质	物質	wu4zhi4	matter	noun
+1022	吸收	吸收	xi1shou1	to absorb	verb
+1023	系	系	ji4	to tie	verb
+1024	细节	細節	xi4jie2	details	noun
+1025	戏剧	戲劇	xi4ju4	drama	noun
+1026	系统	系統	xi4tong3	system	noun
+1027	瞎	瞎	xia1	blind	adjective
+1028	吓	嚇	xia4	to threaten 	verb
+1029	下载	下載	xia4zai3	to download	verb
+1030	显得	顯得	xian3de5	to appear	verb
+1031	显然	顯然	xian3ran2	obvious 	adjective
+1032	显示	顯示	xian3shi4	to show	verb
+1033	现金	現金	xian4jin11	cash	noun
+1034	现实	現實	xian4shi2	reality	noun
+1035	现象	現象	xian4xiang4	phenomenon 	noun
+1036	相处	相處	xiang1chu4	to get along with	verb
+1037	相当	相當	xiang1dang1	to match	verb
+1038	相对	相對	xiang1dui4	relatively	adverb
+1039	相关	相關	xiang1guan1	to be related to	verb
+1040	相似	相似	xiang1si4	to resemble 	verb
+1041	想念	想念	xiang3nian4	to miss	verb
+1042	享受	享受	xiang3shou4	to enjoy	verb
+1043	想象	想像	xiang3xiang4	to imagine 	verb
+1044	项	項	xiang4	term	noun
+1045	项链	項鍊	xiang4lian4	necklace	noun
+1046	项目	項目	xiang4mu5	project	noun
+1047	橡皮	橡皮	xiang4pi2	eraser	noun
+1048	象棋	象棋	xiang4qi2	chess	noun
+1049	象征	象徵	xiang4zheng1	to symbolize 	verb
+1050	消费	消費	xiao1fei4	consumption	noun
+1051	消化	消化	xiao1hua4	to digest	verb
+1052	消灭	消滅	xiao1mie4	to perish	verb
+1053	消失	消失	xiao1shi1	to disappear 	verb
+1054	销售	銷售	xiao1shou4	to sell	verb
+1055	小伙子	小夥子	xiao3huo3zi5	youngster	noun
+1056	小麦	小麥	xiao3mai4	wheat	noun
+1057	小气	小氣	xiao3qi4	stingy	adjective
+1058	小偷	小偷	xiao3tou1	thief	noun
+1059	效率	效率	xiao4lv4	productiveness	noun
+1060	孝顺	孝順	xiao4shun5	filial 	adjective
+1061	歇	歇	xie1	to rest	verb
+1062	斜	斜	xie2	inclined 	adjective
+1063	协调	協調	xie2tiao2	to harmonize	verb
+1064	心理	心理	xin1li3	psychology 	noun
+1065	欣赏	欣賞	xin1shang3	to appreciate	verb
+1066	鲜艳	鮮豔	xian1yan4	Bright-colored	adjective
+1067	心脏	心臟	xin1zang4	heart	noun
+1068	信封	信封	xin4feng1	envelope	noun
+1069	信号	信號	xin4hao4	signal	noun
+1070	信息	信息	xin4xi1	information	noun
+1071	行成	行成	xing2cheng2	to become	verb
+1072	行动	行動	xing2dong4	act	noun
+1073	行人	行人	xing2ren2	pedestrian 	noun
+1074	形容	形容	xing2rong2	to describe	verb
+1075	形式	形式	xing2shi4	form	noun
+1076	形势	形勢	xing2shi4	terrain	noun
+1077	行为	行為	xing2wei2	action	noun
+1078	形象	形象	xing2xiang4	image	noun
+1079	形状	形狀	xing2zhuang4	form	noun
+1080	幸亏	幸虧	xing4kui1	luckily	adverb
+1081	幸运	幸運	xing4yun4	lucky	adjective
+1082	性质	性質	xing4zhi5	quality	noun
+1083	胸	胸	xiong1	chest	noun
+1084	兄弟	兄弟	xiong1di4	brothers	noun
+1085	雄伟	雄偉	xiong2wei3	grand	adjective
+1086	修改	修改	xiu1gai3	to alter	verb
+1087	休闲	休閒	xiu1xian2	relax	adjective
+1088	小吃	小吃	xiao3chi1	snack	noun
+1089	虚心	虛心	xu1xin1	modest	adjective
+1090	叙述	敘述	xu4shu4	to recount	verb
+1091	宣布	宣佈	xuan1bu4	to declare	verb
+1092	宣传	宣傳	xuan1chuan2	to propagandize	verb
+1093	选举	選舉	xuan3ju3	election	noun
+1094	学期	學期	xue2qi1	term	noun
+1095	学术	學術	xue2shu4	science	noun
+1096	学问	學問	xue2wen5	knowledge	noun
+1097	询问	詢問	xun2wen4	to enquire	verb
+1098	寻找	尋找	xun2zhao3	to seek	verb
+1099	训练	訓練	xun4lian4	to train	verb
+1100	迅速	迅速	xun4su4	rapid	adjective
+1101	延长	延長	yan2chang2	to extend	verb
+1102	严肃	嚴肅	yan2su4	serious	adjective
+1103	宴会	宴會	yan4hui4	banquet	noun
+1104	阳台	陽臺	yang2tai2	balcony	noun
+1105	痒	癢	yang3	itch	adjective
+1106	样式	樣式	yang4shi4	style	noun
+1107	腰	腰	yao1	waist	noun
+1108	摇	搖	yao2	to shake	verb
+1109	咬	咬	yao3	to bite	verb
+1110	要不	要不	yao4bu4	otherwise	adjective
+1111	要是	要是	yao4shi4	if	conjunction
+1112	夜	夜	ye4	night	noun
+1113	业务	業務	ye4wu4	operation	noun
+1114	液体	液體	ye4ti3	liquid	noun
+1115	业余	業餘	ye4yu2	spare 	adjective
+1116	义务	義務	yi4wu4	duty	noun
+1117	依然	依然	yi1ran2	still	adverb
+1118	一辈子	一輩子	yi1bei4zi5	a lifetime	noun
+1119	一旦	一旦	yi1dan4	once	conjunction
+1120	移动	移動	yi2dong4	to move	verb
+1121	遗憾	遺憾	yi2han4	pity	noun
+1122	一路平安	一路平安	yi1lu4ping2'an1	have a pleasant journey	other
+1123	移民	移民	yi2min2	to immigrate	verb
+1124	疑问	疑問	yi2wen4	doubt	noun
+1125	一致	一致	yi1zhi4	identical	adjective
+1126	乙	乙	yi3	second person	noun
+1127	以及	以及	yi3ji2	as well as	conjunction
+1128	以来	以來	yi3lai2	since	conjunction
+1129	议论	議論	yi4lun4	to discuss	verb
+1130	意外	意外	yi4wai4	unexpected	adjective
+1131	意义	意義	yi4yi4	meaning	noun
+1132	调整	調整	tiao2zheng3	to adjust	verb
+1133	因而	因而	yin1er3	thus	conjunction
+1134	因素	因素	yin1su4	factor	noun
+1135	银	銀	yin2	silver	noun
+1136	英俊	英俊	ying1jun4	handsome	adjective
+1137	英雄	英雄	ying1xiong2	hero	noun
+1138	应用	應用	ying1yong4	to apply	verb
+1139	迎接	迎接	ying2jie1	to welcome	verb
+1140	营养	營養	ying2yang3	nutrition	noun
+1141	营业	營業	ying2ye4	to do business	verb
+1142	影子	影子	ying3zi5	shadow	noun
+1143	硬币	硬幣	ying4bi4	coin	noun
+1144	应付	應付	ying4fu5	to deal with	verb
+1145	硬件	硬體	ying4jian4	hardware	noun
+1146	应聘	應聘	ying4pin4	to employ	verb
+1147	拥抱	擁抱	yong1bao4	hug	noun
+1148	拥挤	擁擠	yong1ji3	crowded	adjective
+1149	勇气	勇氣	yong3qi4	courage	noun
+1150	用途	用途	yong4tu2	use	noun
+1151	优惠	優惠	you1hui4	favorable	adjective
+1152	悠久	悠久	you1jiu3	long-standing 	adjective
+1153	优美	優美	you1mei3	fine	adjective
+1154	优势	優勢	you1shi4	superiority 	noun
+1155	忧郁	憂鬱	you1yu4	mopish	adjective
+1156	邮局	郵局	you2ju2	post office	noun
+1157	油炸	油炸	you2zha2	to fry	verb
+1158	有利	有利	you3li4	advantageous	adjective
+1159	幼儿园	幼稚園	you4er2yuan2	kindergarden	noun
+1160	娱乐	娛樂	yu2le4	amusement	noun
+1161	预报	預報	yu4bao4	prediction 	noun
+1162	与其	與其	yu3qi2	rather than	preposition
+1163	语气	語氣	yu3qi4	tone	noun
+1164	宇宙	宇宙	yu3zhou4	universe	noun
+1165	预定	預定	yu4ding4	to book	verb
+1166	预防	預防	yu4fang2	to prevent	verb
+1167	玉米	玉米	yu4mi3	corn	noun
+1168	元旦	元旦	yuan2dan4	New Year's Day	noun
+1169	缘故	緣故	yuan2gu4	cause	noun
+1170	原料	原料	yuan2liao4	crude material	noun
+1171	原则	原則	yuan2ze2	principle 	noun
+1172	愿望	願望	yuan4wang4	desire	noun
+1173	推广	推廣	tui1guang3	to popularize 	verb
+1174	运气	運氣	yun4qi5	fortune	noun
+1175	运输	運輸	yun4shu1	to transport	verb
+1176	运用	運用	yun4yong4	to use	verb
+1177	再三	再三	za4san1	repeatedly	adverb
+1178	灾害	災害	zai1hai4	damage	noun
+1179	赞成	贊成	zan4cheng2	to agree	verb
+1180	赞美	讚美	zan4mei3	to praise	verb
+1181	糟糕	糟糕	zao1gao1	bad	adjective
+1182	造成	造成	zao4cheng2	to cause	verb
+1183	则	則	ze2	then	conjunction
+1184	责备	責備	ze2bei4	to blame	verb
+1185	摘	摘	zhai1	to pick	verb
+1186	粘贴	粘貼	zhan1tie1	to stick	verb
+1187	展开	展開	zhan3kai1	to unfold	verb
+1188	展览	展覽	zhan3lan3	to exhibit	noun
+1189	占线	占線	zhan4xian4	busy	adjective
+1190	战争	戰爭	zhan4zheng1	war	noun
+1191	涨	漲	zhang3	to rise	verb
+1192	掌握	掌握	zhang3wo4	to grasp	verb
+1193	账户	帳戶	zhang4hu4	account 	noun
+1194	招待	招待	zhao1dai4	to entertain 	verb
+1195	着凉	著涼	zhao2liang2	to catch cold	verb
+1196	照常	照常	zhao4chang2	as usual	adverb
+1197	召开	召開	zhao4kai1	to convene	verb
+1198	哲学	哲學	zhe2xue2	philosophy 	noun
+1199	针对	針對	zhen1dui4	to direct at	verb
+1200	真理	真理	zhen1li3	truth	noun
+1201	真实	真實	zhen1shi2	true	adjective
+1202	珍惜	珍惜	zhen1xi1	to value	verb
+1203	诊断	診斷	zhen3duan4	to diagnose	verb
+1204	枕头	枕頭	zhen3tou5	pillow	noun
+1205	阵	陣	zhen4	measure word	measure word
+1206	振动	振動	zhen4dong4	to shake	verb
+1207	睁	睜	zheng1	to open	verb
+1208	争论	爭論	zheng1lun4	to argue	verb
+1209	争取	爭取	zheng1qu3	to strive for	verb
+1210	征求	徵求	zheng1qui2	to solicit	verb
+1211	整个	整個	zheng3ge4	whole	adverb
+1212	整体	整體	zheng3ti3	entirety	noun
+1213	正	正	zheng4	just	adverb
+1214	政策	政策	zheng4ce4	policy	noun
+1215	政府	政府	zheng4fu3	government	noun
+1216	证件	證件	zheng4jian4	credentials	noun
+1217	证据	證據	zheng4ju4	proof	noun
+1218	挣钱	掙錢	zheng4qian2	to make money	verb
+1219	政治	政治	zheng4zhi4	polity	noun
+1220	支	支	zhi1	measure word	measure word
+1221	治疗	治療	zhi4liao2	to treat	verb
+1222	支票	支票	zhi1piao4	cheque	noun
+1223	直	直	zhi2	vertical	adjective
+1224	执行	執行	zhi2xing2	to execute	verb
+1225	执照	執照	zhi2zhao4	license	noun
+1226	指导	指導	zhi3dao3	to guide	verb
+1227	制定	制定	zhi4ding4	to draft	verb
+1228	指挥	指揮	zhi3hui1	to command	verb
+1229	制度	制度	zhi4du4	system	noun
+1230	智慧	智慧	zhi4hui4	wisdom	noun
+1231	至今	至今	zhi4jin1	up to now	preposition
+1232	秩序	秩序	zhi4xu4	order	noun
+1233	至于	至於	zhi4yu2	go so far as to	preposition
+1234	志愿者	志願者	zhi4yuan4zhe3	volunteer	noun
+1235	制作	製作	zhi4zuo4	to make	verb
+1236	钟	鐘	zhong1	clock	noun
+1237	中介	仲介	zhong1jie4	intermediary	noun
+1238	中心	中心	zhong1xin1	centre	noun
+1239	重	重	zhong4	heavy	adjective
+1240	重量	重量	zhong4liang4	weight	noun
+1241	中旬	中旬	zhong1xun2	the middle ten days of a month	noun
+1242	周到	周到	zhou1dao4	considerate	adjective
+1243	逐步	逐步	zhu2bu4	gradually	adverb
+1244	竹子	竹子	zhu2zi5	bamboo	noun
+1245	煮	煮	zhu3	to boil	verb
+1246	主持	主持	zhu3chi2	to host	verb
+1247	嘱咐	囑咐	zhu3fu5	to instruct	verb
+1248	主观	主觀	zhu3guan1	subjectivity	noun
+1250	主人	主人	zhu3ren2	master	noun
+1251	主席	主席	zhu3xi2	chairman	noun
+1252	主张	主張	zhu3zhang1	proposal	noun
+1253	注册	註冊	zhu4ce4	to register	verb
+1254	祝福	祝福	zhu4fu2	blessing	noun
+1255	抓紧	抓緊	zhua1jin3	to firmly grasp	verb
+1256	专家	專家	zhuan1jia1	expert	noun
+1257	专心	專心	zhuan1xin1	attentive	adjective
+1258	转变	轉變	zhuan3bian4	to change	verb
+1259	转告	轉告	zhuan3gao4	to transmit	verb
+1260	装	裝	zhuang1	to install	verb
+1261	装饰	裝飾	zhuang1shi4	to decorate	verb
+1262	状况	狀況	zhuang4kuang4	state	noun
+1263	状态	狀態	zhuang4tai4	status	noun
+1264	追求	追求	zhui1qiu2	to pursue	verb
+1265	资格	資格	zi1ge2	qualification	noun
+1266	资金	資金	zi1jin1	fund	noun
+1267	资料	資料	zi1liao4	data	noun
+1268	姿势	姿勢	zi1shi5	gesture	noun
+1269	咨询	諮詢	zi1xun2	to consult	verb
+1270	资源	資源	zi1yuan2	resource	noun
+1271	紫	紫	zi3	purple	noun
+1272	自从	自從	zi4cong2	since	conjunction
+1273	自动	自動	zi4dong4	automatic	adjective
+1274	自豪	自豪	zi4hao2	pride	noun
+1275	自觉	自覺	zi4jue2	conscientious	adjective
+1276	字幕	字幕	zi4mu4	subtitle	noun
+1277	自私	自私	zi4si1	selfish 	adjective
+1278	自信	自信	zi4xin4	self-confident	adjective
+1279	自由	自由	zi4you2	freedom	noun
+1280	自愿	自願	zi4yuan4	to volunteer	verb
+1281	综合	綜合	zong1he2	multiple	adjective
+1282	宗教	宗教	zong1jiao4	religion	noun
+1283	总裁	總裁	zong3cai2	supremo	noun
+1284	总共	總共	zong3gong4	altogether	adverb
+1285	总理	總理	zong3li3	premier	noun
+1286	总算	總算	zong3suan4	finally	adverb
+1287	总统	總統	zong3tong3	president	noun
+1288	总之	總之	zong3zhi1	all in all	conjunction
+1289	祖国	祖國	zu3guo2	motherland	noun
+1290	组合	組合	zu3he2	to combine	verb
+1291	祖先	祖先	zu3xian1	ancestor	noun
+1292	阻止	阻止	zu3zhi3	to prevent	verb
+1293	醉	醉	zui4	to get drunk	verb
+1294	最初	最初	zui4chu1	prime	adjective
+1295	罪犯	罪犯	zui4fan4	criminal	noun
+1296	遵守	遵守	zun1shou3	to observe	verb
+1297	尊重	尊重	zun1zhong4	to respect	verb
+1298	作品	作品	zuo4pin3	works (of art)	noun
+1299	作为	作為	zuo4wei2	to conduct	verb
+1300	作文	作文	zuo4wen2	composition	noun

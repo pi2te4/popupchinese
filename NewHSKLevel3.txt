@@ -1,0 +1,303 @@
+PopupChinese.com – New HSK Level 3					
+序号	词汇	繁体	拼音	英文翻译	词性
+1	阿姨	阿姨	a1yi2	maid, auntie	noun
+2	啊	啊	a5	ah	int
+3	矮	矮	ai3	short	adjective
+4	爱好	愛好	ai4hao4	hobby	noun
+5	安静	安靜	an1jing4	quiet	adjective
+6	把	把	ba3	handle	noun
+7	搬	搬	ban1	to move	verb
+8	班	班	ban1	class	noun
+9	半	半	ban4	half	noun
+10	办法	辦法	ban4 fa3	method	noun
+11	办公室	辦公室	ban4gong1shi4	office	noun
+12	帮忙	幫忙	bang1mang2	to help	verb
+13	包	包	bao1	bag	noun
+14	饱	飽	bao3	full	noun (adjective)
+15	报纸	報紙	bao4zhi3	newspaper	noun
+16	北方	北方	bei3fang1	north	noun
+17	被	被	bei4	by	preposition
+18	鼻子	鼻子	bi2zi5	nose	noun
+19	比较	比較	bi3jiao4	to compare	verb
+20	比赛	比賽	bi3sai4	match	noun
+21	必须	必須	bi4xu1	must	verb
+22	变化	變化	bian4hua4	change 	noun
+23	表示	表示	biao3shi4	to express	verb
+24	表演	表演	biao3yan3	to perform	verb
+25	别人	別人	bie2ren2	others	pronoun
+26	宾馆	賓館	bin1guan3	hotel	noun
+27	冰箱	冰箱	bing1xiang1	refrigerator	noun
+28	才	才	cai2	just	adverb
+29	菜单	菜單	cai4dan1 	menu	noun
+30	参加	參加	can1jia1	to attend	verb
+31	草	草	cao3	grass	noun
+32	层	層	ceng2	story	noun
+33	差	差	cha4	bad (quality)	adjective
+34	超市	超市	chao1shi4 	supermarket	noun
+35	衬衫	襯衫	chen4shan1	shirt	noun
+36	成绩	成績	cheng2ji4	score	noun
+37	城市	城市	cheng2shi4	city	noun
+38	迟到	遲到	chi2dao4	to be late 	verb
+39	出现	出現	chu1xian4	to appear	verb
+40	厨房	廚房	chu2fang2	kitchen	noun
+41	除了	除了	chu2le5	except for	preposition
+42	春	春	chun1	spring	noun
+43	词语	詞語	ci2yu3	word	noun
+44	聪明	聰明	cong1ming5	clever	noun
+45	打扫	打掃	da3sao3	to clean	verb
+46	打算	打算	da3suan4	plan	noun
+47	带	帶	dai4	to bring	verb
+48	担心	擔心	dan1xin1	to worry	verb
+49	蛋糕	蛋糕	dan4gao1	cake	noun
+50	当然	當然	dang1ran2	surely	adverb
+51	灯	燈	deng1	light	noun
+52	低	低	di1	low	adjective
+53	地方	地方	di4fang1	local	adjective
+54	地铁	地鐵	di4tie3	subway	noun
+55	地图	地圖	di4tu2	map	noun
+56	电梯	電梯	dian4ti1	elevator	noun
+57	电子邮件	電子郵件	dian4zi3you2jian4	email	noun
+58	东	東	dong1	east	noun
+59	冬	冬	dong1	winter	noun
+60	懂	懂	dong3	to understand	verb
+61	动物	動物	dong4wu4	animal	noun
+62	短	短	duan3	short	adjective
+63	段	段	duan4	passage	noun
+64	锻炼	鍛煉	duan4lian4	to work out	verb
+65	多么	多麼	duo1me5	how	adverb
+68	饿	餓	e4	to be hungry	verb
+66	而且	而且	er2qie3	moreover	conjunction
+67	耳朵	耳朵	er3duo5	ear	noun
+69	发烧	發燒	fa1shao1	fever	noun
+70	发现	發現	fa1xian4	to discover	verb
+71	方便	方便	fang1bian4	convenience	noun
+72	放	放	fang4	to put	verb
+73	放心	放心	fang4xin1	to relax	verb
+74	分	分	fen1	to divide	verb
+75	附近	附近	fu4jin4	neighborhood	noun
+76	复习	複習	fu4xi2	to review	verb
+77	干净	乾淨	gan1jing4	clean	adjective
+78	敢	敢	gan3	to dare  	verb
+79	感冒	感冒	gan3mao4	cold	noun
+80	刚才	剛才	gang1cai2	just now	adverb
+81	跟	跟	gen1	to follow	verb
+82	根据	根據	gen1ju4	basis	noun
+83	更	更	geng4	more	adverb
+84	公园	公園	gong1yuan2	park	noun
+85	故事	故事	gu4shi5	story	noun
+86	刮风	颳風	gua1feng1	to blow	verb
+87	关	關	guan1	to shut	verb
+88	关系	關係、	guan1xi4	connection, relation	noun
+89	关心	關心	guan1xin1	to concern	verb
+90	关于	關於	guan1yu2	regarding	preposition
+91	国家	國家	guo2jia1	nation	noun
+92	果汁	果汁	guo3zhi1 	juice	noun
+93	过去	過去	guo4qu4	past	adjective
+94	还是	還是	hai2shi4	still	adjective
+95	害怕	害怕	hai4pa4	to be scared	verb
+96	河	河	he2	river	noun
+97	黑板	黑板	hei1ban3	blackboard	noun
+98	护照	護照	hu4zhao4	passport	noun
+99	花	花	hua1	flower	noun
+100	花园	花園	hua1yuan2	garden	noun
+101	画	畫	hua4	painting	noun
+102	坏	壞	huai4	bad	adjective
+103	还	還	huan2	to return	adverb
+104	环境	環境	huan2jing4	environment	noun
+105	换	換	huan4	to change	verb
+106	黄	黃	huang2	yellow	adjective
+107	会议	會議	hui4yi4	meeting 	noun
+108	或者	或者	huo4zhe3 	or	adverb
+109	几乎	幾乎	ji1hu1  	nearly	adverb
+110	机会	機會	ji1hui4	chance	noun
+111	极	極	ji2	badly	adjective
+112	记得	記得	ji4de5	to remember	verb
+113	季节	季節	ji4jie2	season	noun
+114	检查	檢查	jian3cha2	to examine	verb
+115	简单	簡單	jian3dan1	simple	adjective
+116	健康	健康	jian4kang1	health	noun
+117	见面	見面	jian4mian4	to meet	verb
+118	讲	講	jiang3	to speak	verb
+119	教	教	jiao1	to teach	verb
+120	角	角	jiao3	corner	noun
+121	脚	腳	jiao3	foot	noun
+122	接	接	jie1	to connect	verb
+123	街道	街道	jie1dao4	street	noun
+124	结婚	結婚	jie2hun1	to marry	verb
+125	节目	節目	jie2mu4	program	noun
+126	节日	節日	jie2ri4	festival	noun
+127	结束	結束	jie2shu4	to finish	verb
+128	解决	解決	jie3jue2	to solve	verb
+129	借	借	jie4	to borrow	verb
+130	经常	經常	jing1chang2	often 	adverb
+131	经过	經過	jing1guo4	to pass	verb
+132	经理	經理	jing1li3	manager	noun
+133	久	久	jiu3	long (time)	adjective
+134	旧	舊	jiu4	old	adjective
+135	举行	舉行	ju3xing2	to hold	verb
+136	句子	句子	ju4zi3	sentence	noun
+137	决定	決定	jue2ding4	to decide	verb
+138	渴	渴	ke3	thirsty 	adjective
+139	可爱	可愛	ke3ai4	lovely	adjective
+140	刻	刻	ke4	to carve	verb
+141	客人	客人	ke4ren2	guest	noun
+142	空调	空凋	kong1tiao2	air conditioning	noun
+143	口	口	kou3	mouth	noun
+144	哭	哭	ku1	to cry	verb
+145	裤子	褲子	ku4zi5	trousers	noun
+146	块	塊	kuai4	piece	noun
+147	筷子	筷子	kuai4zi5	chopsticks	noun
+148	蓝	藍	lan2	blue	adjective
+149	老	老	lao3	old	adjective
+150	离开	離開	li2kai1	to leave	verb
+151	礼物	禮物	li3wu4	gift	noun
+152	历史	歷史	li4shi3	history	noun
+153	脸	臉	lian3	face	noun
+154	练习	練習	lian4xi2	to practice	verb
+155	辆	輛	liang4	measure word for cars	noun (measure word)
+156	了解	瞭解	liao2jie3	to know	verb
+157	邻居	鄰居	lin2ju1	neighbor	noun
+158	楼	樓	lou2	building	noun
+159	绿	綠	lv4	green	adjective
+160	马	馬	ma3	horse	noun
+161	马上	馬上	ma3shang4	at once	adverb
+162	卖	賣	mai4	to sell	verb
+163	满意	滿意	man3yi4	satisfied	adjective
+164	帽子	帽子	mao4zi3	hat	noun
+165	门	門	men2	door	noun
+166	米	米	mi3	rice	noun
+167	面包	麵包	mian4bao1	bread	noun
+168	面条	麵條	mian4tiao2	noodle	noun
+169	明白	明白	mig2bai5	clear	adjective
+170	奶奶	奶奶	nai3nai3	grandmother	noun
+171	南	南	nan2	south	noun
+172	难	難	nan2	difficult	adjective
+173	难过	難過	nan2guo4	to be sad	verb
+174	音乐	音樂	neng2yin1yue4	music	noun
+175	年级	年級	nian2ji2	grade	noun
+176	年轻	年輕	nian2qing1	youth	noun
+177	鸟	鳥	niao3	bird	noun
+178	努力	努力	nu3li4	to put effort in	verb
+179	爬上	爬上	pa2shang1	to climb up	verb
+180	盘子	盤子	pan2zi5	plate	noun
+181	胖	胖	pang4	fat	adjective
+182	啤酒	啤酒	pi2jiu3	beer	noun
+183	葡萄	葡萄	pu2tao5	grape	noun
+184	普通话	普通話	pu3tong1hua4	Mandarin	noun
+185	骑	騎	qi1	to ride	verb
+186	奇怪	奇怪	qi2guai4	strange	adjective
+187	其实	其實	qi2shi2	actually	adverb
+188	其他	其他	qi2ta1	else	adverb
+189	铅笔	鉛筆	qian1bi3	pencil	noun
+190	清楚	清楚	qing1chu3	clear	adjective
+191	秋	秋	qiu1	autumn	noun
+192	裙子	裙子	qun2zi5	skirt	noun
+193	然后	然後	ran2hou4	afterwards	conjunction
+194	热情	熱情	re4qing2	enthusiasm	noun
+195	认真	認真	ren4zhen1	serious	adjective
+196	容易	容易	rong2yi5	easy	adjective
+197	如果	如果	ru2guo3	if	conjunction
+198	伞	傘	san3	umbrella	noun
+199	上网	上網	shang4wang3	to get online	noun (verb)
+200	生气	生氣	sheng1qi4	to be angry	verb
+201	声音	聲音	sheng1yin1	voice	noun
+202	使	使	shi3	to make	verb
+203	世界	世界	shi4jie4	world	noun
+204	手机	手機	shou3ji1	mobile phone	noun
+205	瘦	瘦	shou4	thin	adjective
+206	舒服	舒服	shu1fu5	comfortable	adjective
+207	叔叔	叔叔	shu1shu5	uncle	noun
+208	树	樹	shu4	tree	noun
+209	数学	數學	shu4xue2	math	noun
+210	刷牙	刷牙	shua1ya2	to brush teeth	verb
+211	双	雙	shuang1	pair	noun
+212	水平	水準	shui3ping2	level	noun
+213	司机	司機	si1ji1	driver	noun
+214	认为	認為	ren4wei2	to think 	verb
+215	虽然	雖然	sui1ran2	despite	preposition
+216	太阳	太陽	tai4yang5	sun	noun
+217	糖	糖	tang2	sugar	noun
+218	特别	特別	te4bie2	special	adjective
+219	疼	疼	teng2	pain	noun
+220	提高	提高	ti2gao1	to improve	verb
+221	体育	體育	ti3yu4	PE	noun
+222	同事	同事	tong2shi4	colleague	noun
+223	头发	頭髮	tou2fa4	hair	noun
+224	突然	突然	tu1ran2	all of a sudden	adverb
+225	图书馆	圖書館	tu2shu1guan2	library	noun
+226	腿	腿	tui3	leg	noun
+227	完成	完成	wan2cheng2	to finish	verb
+228	碗	碗	wan3	bowl	noun
+229	万	萬	wan4	ten thousand	noun
+230	忘记	忘記	wang4ji4	to forget	verb
+232	为	為	wei4	for	preposition
+233	位	位	wei4	measure word for people	noun (measure word)
+231	为了	為了	wei4 le5	for	preposition
+234	文化	文化	wen2hua4	culture	noun
+235	西	西	xi1	west	noun
+236	习惯	習慣	xi2guan4	custom	noun
+237	洗手间	洗手間	xi3shou3jian1	washroom	noun
+238	洗澡	洗澡	xi3zao3	to bathe	verb
+239	夏	夏	xia4	summer	noun
+240	先	先	xian1	first	adverb
+241	香蕉	香蕉	xiang1jiao1	banana	noun
+242	相同	相同	xiang1tong2	same	noun (adjective)
+243	相信	相信	xiang1xin4	to believe	verb
+244	像	像	xiang4	as	preposition
+245	小心	小心	xiao3 xin1	to be careful	adjective
+246	校长	校長	xiao4zhang3	headmaster	noun
+247	鞋	鞋	xie2	shoe	noun
+248	新闻	新聞	xin1wen2	news	noun
+249	新鲜	新鮮	xin1xian1	fresh	adjective
+250	信	信	xin4	letter	noun
+251	行李箱	行李箱	xing2li5xiang1	suitcase	noun
+252	兴趣	興趣	xing4qu3	interest	noun
+253	熊猫	熊貓	xiong2mao1	panda	noun
+254	需要	需要	xu1yao4	to need	verb
+255	选择	選擇	xuan3ze2	to choose	verb
+256	眼镜	眼鏡	yan3jing4	glasses	noun
+257	要求	要求	yao1qiu2	to require	verb
+259	爷爷	爺爺	ye2ye5	grandfather	noun
+267	一般	一般	yi1ban1	general	adjective
+268	一边	一邊	yi1bian1	at the same time	adverb
+260	一定	一定	yi1ding4	definitely 	adverb
+261	一共	一共	yi1gong4	altogether	adverb
+262	一会儿	一會兒	yi1hui4r5	a short period of time	noun
+263	一样	一樣	yi1yang4	same	adjective
+269	一直	一直	yi1zhi2	constantly	adverb
+264	以后	以後	yi3hou4	after 	adverb
+265	以前	以前	yi3qian2	before	adverb
+266	以为	以為	yi3wei2	to think (wrongly)	verb
+270	银行	銀行	yin2hang2	bank	noun
+271	应该	應該	ying1gai1	should	auxiliary
+272	影响	影響	ying3xiang3	affection	noun
+273	用	用	yong4	to use	verb
+274	游戏	遊戲	you2xi4	game	noun
+275	有名	有名	you3ming2	famous	adjective
+276	又	又	you4	again	conjunction
+277	遇到	遇到	yu4dao4	to meet	verb
+278	愿意	願意	yuan4yi4	would like to	auxiliary
+279	越	越	yue4	to get over	verb
+280	月亮	月亮	yue4liang4	moon	noun
+281	云	雲	yun2	cloud	noun
+282	站	站	zhan4	to stand	verb
+283	长	長	zhang3	to grow	verb
+284	着急	著急	zhao2ji2	to worry	verb
+285	照顾	照顧	zhao4gu4	to look after	verb
+286	照片	照片	zhao4pian4	photo	noun
+287	照相机	照相機	zhao4xiang4ji1	camera	noun
+288	只	只	zhi3	only	adverb
+289	中间	中間	zhong1jian1	middle	noun
+290	终于	終於	zhong1yu2	finally	adverb
+291	种	種	zhong3	kind	noun
+292	重要	重要	zhong4yao4	important	adjective
+293	周末	週末	zhou1mo4	weekend	noun
+294	主要	主要	zhu3yao4	mainly	adverb
+295	祝	祝	zhu4	to wish	verb
+296	注意	注意	zhu4yi4	attention	noun
+297	字典	字典	zi4dian3	dictionary	noun
+298	自己	自己	zi4ji3	oneself	noun
+299	总是	總是	zong3shi4	always	adverb
+300	最近	最近	zui4jin4	recently	adverb
+301	作业	作業	zuo44ye	homework	noun
+302	作用	作用	zuo4yong4	action	noun

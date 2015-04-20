@@ -1,0 +1,152 @@
+PopupChinese.com – New HSK Level 2					
+序号	词汇	繁体	拼音	英文翻译	词性
+1	吧	吧	ba5	(suggestion)	auxiliary
+2	白	白	bai2	white	adjective
+3	百	百	bai3	hundred	numeral
+4	帮助	幫助	bang1zhu4	to help	verb
+5	比	比	bi3	to compare with	preposition
+6	别	別	bie2	do not	adverb
+7	长	長	chang2	long	adjective
+8	唱歌	唱歌	chang4ge1	to sing	verb
+9	出	出	chu1	to go out	verb
+10	穿	穿	chuan1	to wear	verb
+11	船	船	chuan2	boat	noun
+12	次	次	ci4	time	classifier
+13	从	從	cong2	from	preposition
+14	错	錯	cuo4	wrong	adjective
+15	打篮球	打籃球	da3lan2qiu2	to play basketball	phrase
+16	大家	大家	da4jia1	everyone	pronoun
+17	但是	但是	dan4shi4	but	conjunction
+18	到	到	dao4	to arrive	verb
+19	地	地	de5	(adverbial particle)	auxiliary
+20	得	得	de5	(adverbial particle)	auxiliary
+21	等	等	deng3	to wait	verb
+22	弟弟	弟弟	di4di5	younger brother	noun
+23	第一	第一	di4yi1	first	numeral
+24	对	對	dui4	right	adjective
+25	对	對	dui4	towards	preposition
+26	房间	房間	fang2jian1	room	noun
+27	非常	非常	fei1chang2	very	adverb
+28	分钟	分鐘	fen1zhong1	minute	noun
+29	服务员	服務員	fu2wu4yuan2	waiter	noun
+30	高	高	gao1	tall	adjective
+31	告诉	告訴	gao4su5	to tell	verb
+32	哥哥	哥哥	ge1ge5	older brother	noun
+33	给	給	gei3	to give	verb
+34	公共汽车	公共汽車	gong1gong4qi4che1	bus	noun
+35	公斤	公斤	gong1jin1	kilogram	classifier
+36	公司	公司	gong1si1	company	noun
+37	贵	貴	gui4	expensive	adjective
+38	过	過	guo4	(perfect tense)	auxiliary
+39	还	還	hai2	still	adverb
+40	孩子	孩子	hai2zi5	child	noun
+41	好吃	好吃	hao3chi1	delicious	adjective
+42	号	號	hao4	number	noun
+43	黑	黑	hei1	black	adjective
+44	红	紅	hong2	red	adjective
+45	欢迎	歡迎	huan1ying2	to welcome	verb
+46	回答	回答	hui2da2	to answer	verb
+47	机场	機場	ji1chang3	airport	noun
+48	鸡蛋	雞蛋	ji1dan4	egg	noun
+49	件	件	jian4	measure word for clothing or matters	classifier
+50	教室	教室	jiao4shi4	classroom	noun
+51	姐姐	姐姐	jie3jie5	older sister	noun
+52	介绍	介紹	jie4shao4	to introduce	verb
+53	进	進	jin4	to enter	verb
+54	近	近	jin4	close	adjective
+55	就	就	jiu4	only	adverb
+56	觉得	覺得	jue2de5	to think	verb
+57	咖啡	咖啡	ka1fei1	coffee	noun
+58	开始	開始	kai1shi3	to begin	verb
+59	考试	考試	kao3shi4	exam	noun
+60	可能	可能	ke3neng2	to be possible	verb
+61	可以	可以	ke3yi3	can	verb
+62	课	課	ke4	lesson	noun
+63	快	快	kuai4	quick	adjective
+64	快乐	快樂	kuai4le4	happy	adjective
+65	累	累	lei4	tired	adjective
+66	离	離	li2	from	preposition
+67	两	兩	liang3	two	numeral
+68	路	路	lu4	road	noun
+69	旅游	旅遊	lv3you2	to travel	verb
+70	慢	慢	man4	slow	adjective
+71	忙	忙	mang2	busy	adjective
+72	每	每	mei3	every	pronoun
+73	妹妹	妹妹	mei4mei5	younger sister	noun
+74	男人	男人	nan2ren2	man	noun
+75	您	您	nin2	you	pronoun
+76	牛奶	牛奶	niu2nai3	milk	noun
+77	女人	女人	nv3ren2	woman	noun
+78	旁边	旁邊	pang2bian1	side	noun
+79	跑步	跑步	pao3bu4	to run	verb
+80	便宜	便宜	pian2yi5	cheap	adjective
+81	票	票	piao4	ticket	noun
+82	漂亮	漂亮	piao4liang5	beautiful	adjective
+83	妻子	妻子	qi1zi5	wife	noun
+84	起床	起床	qi3chuang2	to get up	verb
+85	千	千	qian1	thousand	numeral
+86	晴	晴	qing2	sunny	adjective
+87	去年	去年	qu4nian2	last year	noun
+88	让	讓	rang4	to let	verb
+89	上班	上班	shang4ban1	to go to work	verb
+90	身体	身體	shen1ti3	body, health	noun
+91	生病	生病	sheng1bing4	to get sick	verb
+92	生日	生日	sheng1ri4	birthday	noun
+93	时间	時間	shi2jian1	time	noun
+94	事情	事情	shi4qing5	matter	noun
+95	手表	手錶	shou3biao3	watch	noun
+96	送	送	song4	to give, to send	verb
+97	所以	所以	suo3yi3	so	conjunction
+98	它	它	ta1	it 	pronoun
+99	踢足球	踢足球	ti1zu2qiu2	to play football	verb
+100	题	題	ti2	question	noun
+101	跳舞	跳舞	tiao4wu3	to dance	verb
+102	外	外	wai4	outside	noun
+103	玩	玩	wan2	to play	verb
+104	完	完	wan2	to finish	verb
+105	晚上	晚上	wan3shang5	evening	noun
+106	喂	喂	wei4	hey	interjection
+107	为什么	為什麼	wei4shen2me5	why	pronoun
+108	问	問	wen4	to ask	verb
+109	问题	問題	wen4ti2	question	noun
+110	西瓜	西瓜	xi1gua1	watermelon	noun
+111	希望	希望	xi1wang4	to hope	verb
+112	洗	洗	xi3	to wash	verb
+113	向	向	xiang4	towards	preposition
+114	小时	小時	xiao3shi2	hour	noun
+115	笑	笑	xiao4	to smile	verb
+116	新	新	xin1	new	adjective
+117	姓	姓	xing4	family name	noun
+118	休息	休息	xiu1xi5	to rest	verb
+119	雪	雪	xue3	snow	noun
+120	颜色	顏色	yan2se4	color	noun
+121	眼睛	眼睛	yan3jing5	eye	noun
+122	羊肉	羊肉	yang2rou4	lamb	noun
+123	药	藥	yao4	medicine	noun
+124	要	要	yao4	to want, will	verb
+125	也	也	ye3	also	adverb
+126	已经	已經	yi3jing1	already	adverb
+127	一起	一起	yi1qi3	together	adverb
+128	意思	意思	yi4si5	meaning	noun
+129	阴	陰	yin1	cloudy	adjective
+130	因为	因為	yin1wei4	because	conjunction
+131	游泳	游泳	you2yong3	to swim	verb
+132	右边	右邊	you4bian5	right side	noun
+133	鱼	魚	yu2	fish	noun
+134	元	元	yuan2	yuan 	classifier
+135	远	遠	yuan3	far	adjective
+136	运动	運動	yun4dong4	to work out	verb
+137	再	再	zai4	again	adverb
+138	早上	早上	zao3shang5	morning	noun
+139	张	張	zhang1	piece	classifier
+140	丈夫	丈夫	zhang4fu5	husband	noun
+141	找	找	zhao3	to look for	verb
+142	着	著	zhe5	(continuing tense)	auxiliary
+143	真	真	zhen1	really	adverb
+144	正在	正在	zheng4zai4	currently	adverb
+145	知道	知道	zhi1dao4	to know	verb
+146	准备	準備	zhun3bei4	to prepare	verb
+147	自行车	自行車	zi4xing2che1	bicycle	noun
+148	走	走	zou3	to walk	verb
+149	最	最	zui4	most	adverb
+150	左边	左邊	zuo3bian5	left side	noun
