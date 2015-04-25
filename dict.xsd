@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+	<xs:element name="dict">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="entry" type="_entry" minOccurs="1" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:complexType name="_entry">
+		<xs:sequence>
+			<xs:element name="def" type="_definition" minOccurs="1" maxOccurs="unbounded"/>
+			<xs:element name="ex" type="_example" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="level" use="optional">
+			<xs:simpleType>
+			<xs:restriction base="xs:string">
+				<xs:enumeration value=""/>
+				<xs:enumeration value="一"/>
+				<xs:enumeration value="二"/>
+				<xs:enumeration value="三"/>
+				<xs:enumeration value="四"/>
+				<xs:enumeration value="六"/>
+				<xs:enumeration value="五"/>
+			</xs:restriction>
+			</xs:simpleType>
+		</xs:attribute>
+		<xs:attribute name="headword" type="xs:string" use="required"/>
+		<xs:attribute name="traditional" type="xs:string" use="optional"/>
+		<xs:attribute name="pinyin" use="required">
+			<xs:simpleType>
+				<xs:restriction base="xs:string">
+					<xs:pattern value="[a-zA-Z0-9 'ü-]*"/>
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:attribute>
+		<xs:attribute name="mismatch" type="xs:integer" use="optional"/>
+	</xs:complexType>
+
+	<xs:complexType name="_definition" mixed="true">
+		<xs:attribute name="type" use="required">
+			<xs:simpleType>
+				<xs:restriction base="xs:string">
+					<xs:enumeration value="名"/>
+					<xs:enumeration value="动"/>
+					<xs:enumeration value="助"/>
+					<xs:enumeration value="形"/>
+					<xs:enumeration value="数"/>
+					<xs:enumeration value="量"/>
+					<xs:enumeration value="叹"/>
+					<xs:enumeration value="代"/>
+					<xs:enumeration value="副"/>
+					<xs:enumeration value="介"/>
+					<xs:enumeration value="连"/>
+					<xs:enumeration value="固定词组"/>
+					<xs:enumeration value="？"/>
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:attribute>
+		<xs:attribute name="src" type="xs:string" use="optional"/>
+	</xs:complexType>
+
+	<xs:complexType name="_example" mixed="true">
+	</xs:complexType>
+</xs:schema>
